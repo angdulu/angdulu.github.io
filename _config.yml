@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "jwookim27@kis.ac"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -328,4 +328,3 @@ defaults:
       show_date: true
 
       date_foramt: "%Y-%m-%d"
-      
