@@ -8,6 +8,6 @@ title: "Testing Image Settings"
 
 ![Screenshot5.png](/assets/Screenshot5.png)
 
-![loading-ag-174](/Users/kimjiwoo/Desktop/Screenshot 2025-10-08 at 8.01.58 PM.png)
+![loading-ag-180](/assets/Screenshot%202025-10-08%20at%208.01.58 PM.png)
 
-![Screenshot 2025-10-08 at 7.53.37 PM.png](/Users/kimjiwoo/Documents/GitHub/angdulu.github.io/assets/2f7d7c902e0d015d12856f5f9463ab2af062e03f.png)
+![loading-ag-178](/assets/2f7d7c902e0d015d12856f5f9463ab2af062e03f.png)
