@@ -326,3 +326,6 @@ defaults:
       share: true
       related: true
       show_date: true
+
+      date_foramt: "%Y-%m-%d"
+      
