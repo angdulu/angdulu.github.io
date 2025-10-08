@@ -117,7 +117,7 @@ author:
   avatar           : "https://scontent-fra5-2.cdninstagram.com/v/t51.2885-19/464760996_1254146839119862_3605321457742435801_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QF5RUM6baTTh6LXYXA5l92VukY6EbQYrIc_nHTgHXu_lYCHKbD-oXloyr2wd6H87D0&_nc_ohc=saWtNeFrsI0Q7kNvwGeNmKf&_nc_gid=XRxUV5q4pKY0I4bfApTMgA&edm=AHBgTAQBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfculBrAVovSFE2xv5Gryw-qG_854JO5gJNT3hHPSFiYVA&oe=68EC3428&_nc_sid=21e75c"
   bio              : "KISJ'27"
   location         : "South Korea"
-  email            : "mailto:jwookim27@kis.ac"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
