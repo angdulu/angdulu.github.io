@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title: "Welcome!"
+title: "Welcome back!"
 
 marktext-copy-images-to: ..\2025-10-08
 
