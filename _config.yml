@@ -21,7 +21,7 @@ title                    : "Dululu"
 title_separator          : "|"
 subtitle                 : "Be the speaker"
 name                     : "Dululu"
-description              : "An amazing website."
+description              : "KISJ'27"
 url                      : "https://angdulu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -328,4 +328,4 @@ defaults:
       show_date: true
 
 
-date_foramt: "%Y-%m-%d"
+date_format: "%Y-%m-%d"
