@@ -9,9 +9,9 @@ I tried so hard, only to end up building something that could barely be called a
 
 
 
-![Screenshot-of-my-first-blog1](/assets/Screenshot-of-my-first-blog1 "Screenshot-of-my-first-blog1")
+![Screenshot-of-my-first-blog1](/assets/Screenshot-of-my-first-blog1.png "Screenshot-of-my-first-blog1")
 
-![Screenshot-of-my-first-blog2](/Users/kimjiwoo/Downloads/Screenshot%202025-10-08%20at%206.10.19 PM.png "Screenshot-of-my-first-blog2")
+![Screenshot-of-my-first-blog2](/assets/Screenshot-of-my-first-blog2.png "Screenshot-of-my-first-blog2")
 
 What was worse than the website was my coding skill. I had to literally rebuild the entire website every time I uploaded a single post. Knowing nothing about coding, even changing the title of the post was a pain.
 
