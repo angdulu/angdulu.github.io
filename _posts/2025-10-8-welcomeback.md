@@ -1,3 +1,7 @@
+---
+layout: single
+title:  "Welcome!"
+---
 # Welcome back!
 
 My first attempt dates back to December 8, 2024, when I decided to create my own blog from scratch—without knowing a single thing about coding. I thought I could do everything. I thought I could create my own Facebook or Google. 
