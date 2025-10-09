@@ -48,3 +48,154 @@ hr,.page__footer,.page__content,.sidebar,.archive__item{ border-color:var(--bord
   color: var(--fg) !important;
   border-top: 1px solid var(--border) !important;
 }
+/* ===== Improved Readability for Dark Mode ===== */
+:root[color-theme="dark"] {
+  --background: #181818;     /* 완전한 어두운 배경 */
+  --elev: #232323;           /* 카드/사이드바 */
+  --fg: #ffffff;             /* 본문 텍스트 */
+  --muted: #cccccc;          /* 보조 텍스트 */
+  --link: #8ab4ff;           /* 밝은 블루 */
+  --border: #404040;         /* 부드러운 경계선 */
+}
+
+/* 링크 hover 시 더 명확한 강조 */
+a:hover, .page__content a:hover {
+  color: #aecbfa !important;
+  text-decoration: underline;
+}
+
+/* 제목 대비 강화 */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--fg) !important;
+  font-weight: 700;
+}
+
+/* 본문 가독성 향상 */
+.page__content p {
+  color: var(--fg);
+  line-height: 1.8;
+  letter-spacing: 0.01em;
+}
+
+/* 메타 정보 (날짜 등) */
+.page__meta, small, .muted {
+  color: var(--muted);
+}
+/* ===== Fix ToC + Site Title colors (Minimal Mistakes) ===== */
+
+/* ToC 컨테이너, 제목줄 */
+.toc,
+.toc .nav__title {
+  background: var(--elev) !important;
+  color: var(--fg) !important;
+  border: 1px solid var(--border) !important;
+}
+
+/* ToC 링크들 (기본/hover/visited/active) */
+.toc .toc__menu a,
+.toc .toc__menu a:visited {
+  color: var(--link) !important;
+}
+.toc .toc__menu a:hover {
+  color: #aecbfa !important;
+  text-decoration: underline;
+}
+.toc .toc__menu .active > a {
+  color: var(--fg) !important;
+  font-weight: 600;
+}
+
+/* ToC 안의 구분선/목록 */
+.toc .toc__menu ul {
+  border-color: var(--border) !important;
+}
+
+/* 페이지 제목(포스트 상단 h1) 더 밝게 */
+.page__title,
+.page__title a {
+  color: var(--fg) !important;
+}
+
+/* 헤더의 사이트 제목(좌측 Dululu) */
+.masthead .site-title,
+.masthead .site-title a,
+.greedy-nav .site-title,
+.greedy-nav .site-title a {
+  color: var(--fg) !important;
+  text-decoration: none !important;
+}
+/* ===== Fix inline code & code blocks for dark mode ===== */
+:root[color-theme="dark"] {
+  /* 인라인 코드 (`code`, `kbd`, `tt`) */
+  code,
+  kbd,
+  tt {
+    background: #2a2a2a !important;  /* 살짝 어두운 배경 */
+    color: #ffeb99 !important;       /* 따뜻한 노란빛 텍스트 */
+    border-radius: 4px;
+    padding: 2px 4px;
+  }
+
+  /* 코드 블록 (`pre > code`) */
+  pre,
+  pre code {
+    background: #1e1e1e !important;  /* 진한 배경 */
+    color: #e6e6e6 !important;       /* 밝은 회색 텍스트 */
+    border: 1px solid #333 !important;
+  }
+
+  /* 코드 블록 내 줄 번호나 강조 색 */
+  .highlight {
+    background: #1e1e1e !important;
+    color: #e6e6e6 !important;
+  }
+}
+/* === ToC 폰트 크기 '통일 + 살짝 작게 조정' === */
+.toc .toc__menu,
+.toc .toc__menu ul { 
+  font-size: 0.88rem !important;  /* 전체 크기를 줄임 (기본보다 약 12% 작게) */
+  line-height: 1.45 !important;   /* 줄 간격 살짝 줄임 */
+}
+
+/* 링크 공통 스타일 */
+.toc .toc__menu li a {
+  font-size: inherit !important;  /* 상위 설정을 그대로 상속 */
+  color: var(--link) !important;
+}
+
+/* 들여쓰기 간격 유지 */
+.toc .toc__menu ul { 
+  margin-left: 0.8rem !important; 
+}
+
+/* 강조(현재 위치)는 살짝 두껍게 */
+.toc .toc__menu .active > a {
+  font-weight: 600 !important;
+  color: var(--fg) !important;
+}
+/* === Global font stack unification === */
+:root {
+  --ui-font: -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* 기본 글꼴 통일 */
+html, body {
+  font-family: var(--ui-font);
+}
+
+/* 폼/버튼 등도 상속 */
+*,
+button, input, select, textarea {
+  font-family: inherit;
+}
+
+/* ToC/사이드바 등에서 다른 스택을 덮어쓰는 규칙 무효화 */
+.toc,
+.toc * ,
+.sidebar,
+.nav__list a,
+.nav__list a:visited,
+.toc .toc__menu a,
+.toc .toc__menu a:visited {
+  font-family: inherit !important;
+}
