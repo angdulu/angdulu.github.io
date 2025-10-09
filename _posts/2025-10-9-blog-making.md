@@ -25,9 +25,44 @@ The video I followed was in Korean, explaining how to make a Jekyll-based blog o
 Still, I learned a lot:
 
 - How to create a GitHub repository
+
 - What `_config.yml` does — basically, your site’s brain
+
 - How to edit posts by making `.md` (Markdown) files
-- How to commit changes and wait for GitHub to rebuild the site
+
+  
+
+> This consists the website.
+
+<img src="/assets/images/2025-10-9-blog-making/Screenshot 2025-10-09 at 4.56.29 PM.png" alt="Screenshot 2025-10-09 at 4.56.29 PM" style="zoom:50%;" /><img src="/assets/images/2025-10-9-blog-making/Screenshot 2025-10-09 at 4.57.14 PM.png" alt="Screenshot 2025-10-09 at 4.57.14 PM" style="zoom:50%;" />
+
+> This is what's inside the `_config.yml`
+>
+> By changing, adding and removing codes, you can either change, add and remove features.
+
+It's acutally very simple.
+
+For example, simply changing this code:
+
+```
+name :   "Your name"
+```
+
+into this:
+
+```
+name :   "Andrew Kim"
+```
+
+![Screenshot 2025-10-09 at 5.14.04 PM](/assets/images/2025-10-9-blog-making/Screenshot 2025-10-09 at 5.14.04 PM.png)
+
+It adds your name. While this is just a sample, you can add anything you want by simply asking ChatGPT! I even tried adding an automatic dark mode feature — it didn’t work as I expected, but still, here's the thing: you can do whatever you want.
+
+
+
+
+
+------
 
 Even though the template (I used Minimal Mistakes) was already made, understanding how it all connects was a challenge.
  But after so many Google searches, YouTube rewinds, and ChatGPT questions, it finally worked. 🎉
