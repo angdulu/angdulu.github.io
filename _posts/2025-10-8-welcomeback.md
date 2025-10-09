@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome back!"
+title: "Welcome Back!"
 typora-root-url: ../
 ---
 
