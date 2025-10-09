@@ -4,6 +4,7 @@ title: "Blog Making"
 typora-root-url: ../
 category: "coding"
 toc: true
+author_profile: false
 ---
 
 ## How I Made This GitHub Blog (With Zero Coding Experience)
