@@ -8,22 +8,3 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
-/* ============= Automatic Dark Mode ============= */
-
-/* Let browsers know both light and dark schemes are supported */
-:root {
-  color-scheme: light dark;
-}
-
-body {
-  background-color: #fff;
-  color: #111;
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #444;
-    color: #eee;
-  }
-}
