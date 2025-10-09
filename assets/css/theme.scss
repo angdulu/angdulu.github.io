@@ -1,0 +1,50 @@
+---
+---
+/* icons */
+.theme-btn-wrap .theme-btn{
+  display:inline-block;width:18px;height:18px;
+  background:url("/assets/images/moon.png") center/cover no-repeat;
+  vertical-align:middle;transition:.3s;
+}
+.theme-btn-wrap input[type="checkbox"]{ display:none; }
+.theme-btn-wrap input[type="checkbox"]:checked + .theme-btn{
+  background-image:url("/assets/images/sun.png");
+}
+.theme-btn-wrap .theme-btn:hover{ transform:scale(1.2) rotate(180deg); transition:1s; }
+
+/* color tokens (light) */
+:root[color-theme="light"]{
+  --background:#ffffff;
+  --elev:#ffffff;
+  --fg:#222;
+  --muted:#777;
+  --link:#0a66ff;
+  --border:#e6e6e6;
+}
+/* color tokens (dark) */
+:root[color-theme="dark"]{
+  --background:#2f2d2b;
+  --elev:#3a3734;
+  --fg:#f0e8dc;
+  --muted:#b9ad9f;
+  --link:#e2a868;
+  --border:#5a5550;
+}
+
+/* apply */
+html,body{ background:var(--background); color:var(--fg); }
+a{ color:var(--link); }
+small,.post-meta,.muted{ color:var(--muted); }
+hr,.page__footer,.page__content,.sidebar,.archive__item{ border-color:var(--border); }
+
+/* header/nav surfaces */
+.masthead, .greedy-nav, .greedy-nav .visible-links>li>a {
+  background:var(--elev); color:var(--fg);
+}
+
+/* force footer color to follow theme */
+.page__footer {
+  background: var(--elev) !important;
+  color: var(--fg) !important;
+  border-top: 1px solid var(--border) !important;
+}
