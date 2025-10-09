@@ -100,7 +100,7 @@ There’s so much I want to share, but writing everything in Markdown takes fore
 
 **Adding automatic & manual dark mode**
 
-I am currently working on adding automatic and manual dark mode feature. I prefer dark mode, but as mentioned above, I failed to make one that satisfies my expectations. As shown below, I usually rely 1000% on ChatGPT. You would know whether I have succeeded or not by the time you see my blog.
+I am currently working on adding automatic and manual dark mode feature. This is because I usually prefer dark mode, but I failed to make one that satisfies my expectations. As shown below, I usually rely 1000% on ChatGPT. You would know whether I have succeeded or not by the time you see my blog.
 
 <sub> ⬇️ My GPT's response:
 
