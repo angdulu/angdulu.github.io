@@ -3,6 +3,7 @@ layout: single
 title: "Checklist"
 typora-root-url: ../
 author_profile: false
+category: daily
 ---
 
 - [ ] US history homework - reading 
