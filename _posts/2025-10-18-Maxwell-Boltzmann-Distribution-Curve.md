@@ -3,6 +3,7 @@ layout: single
 title: "Maxwell Boltzmann Distribution Curve"
 typora-root-url: ../
 author_profile: false
+
 category: science
 
 ---
