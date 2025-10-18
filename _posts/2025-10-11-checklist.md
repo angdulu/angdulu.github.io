@@ -6,7 +6,12 @@ author_profile: false
 category: daily
 ---
 
-- [ ] US history homework - reading 
-- [ ] AP Chemistry videos - Unit3 introduction to gas
-- [ ] SAT vocabulary practice 
-- [ ] AP Calculus BC homework- practice questions
+- [x] US history homework - reading 
+- [x] AP Chemistry videos - Unit3 introduction to gas
+- [ ] SAT vocabulary practice
+  - Not fully finished😔
+- [ ] AP Calculus BC homework- practice questions 
+  - Not fully finished😔
+
+
+
