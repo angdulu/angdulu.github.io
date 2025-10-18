@@ -203,10 +203,13 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+
 kramdown:
+  input: GFM
   math_engine: mathjax
-  syntax_highlighter: rouge
-highlighter: rouge
+
+# (선택) 사이트 전체에서 MathJax 켜기
+mathjax: true
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
