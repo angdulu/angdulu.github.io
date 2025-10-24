@@ -1,4 +1,22 @@
+---
+layout: single
+title: “Word Smart — SAT Vocabulary Planner (by Andrew Kim)”
+typora-root-url: ../
+author_profile: false
+mathjax: true
+category: daily
+---
+
+
+
+
+
+---
+
+
+
 # “Word Smart — SAT Vocabulary Planner (by Andrew Kim)”
+
 > 400 high‑yield words grouped A–Z. Definitions are concise; examples mirror Word Smart’s compact usage style.
 
 ## A
