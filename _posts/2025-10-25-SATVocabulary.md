@@ -5,19 +5,10 @@ typora-root-url: ../
 author_profile: false
 mathjax: true
 category: daily
+toc: true
 ---
-
-
-
-
-
----
-
-
 
 # “Word Smart — SAT Vocabulary Planner (by Andrew Kim)”
-
-> 400 high‑yield words grouped A–Z. Definitions are concise; examples mirror Word Smart’s compact usage style.
 
 ## A
 **Abdicate** — to give up power or responsibility
