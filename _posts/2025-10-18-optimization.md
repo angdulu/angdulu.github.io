@@ -81,13 +81,15 @@ $$
 \frac{dA}{dr} = 4\pi r - \frac{1000}{r^2}
 $$
 
-
 Set $\frac{dA}{dr} = 0$ to find the minimum:
+
 
 
 $$
 4\pi r = \frac{1000}{r^2}
 $$
+
+
 Then, 
 $$
 r=4.301
