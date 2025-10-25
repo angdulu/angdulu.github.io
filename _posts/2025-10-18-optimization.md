@@ -27,7 +27,7 @@ Let’s find out.
 - **Volume:** $V = 500\ \text{mL} = 500\ \text{cm}^3$
 
 - **Typical Can Dimensions:**
-   
+  
    $h = 16.8\ \text{cm}$
    
    $r = 3.3\ \text{cm}$
@@ -97,13 +97,13 @@ Then,
 
 
 $$
-r=4.301
+r=4.301\ \text{cm}
 $$
 
 
 
 $$
-h = \frac {500}{4.301^2 \pi}=8.604
+h = \frac {500}{4.301^2 \pi}=8.604\ \text{cm}
 $$
 
 
