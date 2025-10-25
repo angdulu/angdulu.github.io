@@ -8,8 +8,6 @@ category: daily
 toc: true
 ---
 
-# “Word Smart — SAT Vocabulary Planner (by Andrew Kim)”
-
 ## A
 **ABSTRACT** — Theoretical; lacking substance (the opposite of concrete)
  → 이론적인, 추상적인 (↔ 구체적인)
