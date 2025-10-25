@@ -8,6 +8,8 @@ category: math
 toc: false
 ---
 
+# AP Cal BC U4 Contextual Applications of Differentiation
+
 When you pick up a 500 mL drink can, have you ever wondered—
  is its shape mathematically optimal for holding that volume with minimum material?
 
