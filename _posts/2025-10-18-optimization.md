@@ -37,8 +37,9 @@ For a cylinder,
 $$
 V = \pi r^2 h
 $$
-Solving for $h$:
 
+
+Solving for $h$:
 
 $$
 h = \frac{V}{\pi r^2}
@@ -61,6 +62,8 @@ $$
 A = 2\pi r^2 + 2\pi r h
 $$
 We want to minimize $A$ for a fixed $V$.
+
+
 $$
 A = 2\pi r^2 + 2\pi r (\frac{500}{\pi r^2})
 $$
@@ -72,10 +75,16 @@ $$
 ## 🔍 Step 4. Optimization
 
 Differentiate $A$ with respect to $r$:
+
+
 $$
 \frac{dA}{dr} = 4\pi r - \frac{1000}{r^2}
 $$
+
+
 Set $\frac{dA}{dr} = 0$ to find the minimum:
+
+
 $$
 4\pi r = \frac{1000}{r^2}
 $$
@@ -93,9 +102,7 @@ $$
 
 ![Screenshot 2025-10-25 at 7.54.02 PM](/assets/images/2025-10-18-optimization/Screenshot 2025-10-25 at 7.54.02 PM.png) <sub> optimal can
 
-![image-20251025200052939](/assets/images/2025-10-18-optimization/image-20251025200052939.png)
-
-<sub> actual can
+![image-20251025200052939](/assets/images/2025-10-18-optimization/image-20251025200052939.png)<sub> actual can
 
 Source: [Matheretter – Cylinder Calculator 3D](https://www.matheretter.de/calc/cylinder)
 
