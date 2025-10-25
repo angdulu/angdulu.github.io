@@ -11,1226 +11,430 @@ toc: true
 # “Word Smart — SAT Vocabulary Planner (by Andrew Kim)”
 
 ## A
-**Abdicate** — to give up power or responsibility
-: _Example:_ The king abdicated the throne.
+**ABSTRACT** — Theoretical; lacking substance (the opposite of concrete)
+ → 이론적인, 추상적인 (↔ 구체적인)
 
-**Aberration** — a departure from the norm
-: _Example:_ A warm winter is an aberration.
+**ACUTE** — Sensitive; sharp; discerning
+ → 예리한, 민감한, 통찰력 있는
 
-**Abhor** — to hate deeply
-: _Example:_ She abhors cruelty.
+**ADVOCATE** — v To promote; n one who promotes a cause
+ → v. 옹호하다, 지지하다 / n. 옹호자, 지지자
 
-**Abjure** — to renounce
-: _Example:_ He abjured his claims.
+**AESTHETIC** — Having to do with artistic beauty; artistic (not to be confused with ascetic)
+ → 미적인, 예술적인 (ascetic: 금욕적인 혼동 주의)
 
-**Abstemious** — moderate in eating/drinking
-: _Example:_ He lived an abstemious life.
+**ALLEVIATE** — To relieve, especially pain
+ → (특히 고통을) 완화하다, 덜어주다
 
-**Abstract** — Theoretical; lacking substance
-: _Example:_ Abstract — Theoretical.
+**AMASS** — To accumulate
+ → 모으다, 축적하다
 
-**Abstruse** — hard to understand
-: _Example:_ An abstruse theory challenged students.
+**AMBIVALENT** — Simultaneously feeling opposing feelings; uncertain
+ → 양면적인, 불확실한, 모순된 감정이 공존하는
 
-**Accolade** — an award; honor
-: _Example:_ She received accolades for her work.
+**ANALOGY** — A comparison
+ → 유사, 비유, 비교
 
-**Acquiesce** — to agree passively
-: _Example:_ They acquiesced to the request.
+**ANARCHY** — Absence of government or control; lawlessness; disorder
+ → 무정부 상태, 혼란, 무질서
 
-**Acrid** — sharp or bitter (taste/smell)
-: _Example:_ Acrid smoke stung our eyes.
+**ANECDOTE** — A short account of an interesting incident
+ → 짧은 일화, 재미있는 이야기
 
-**Acrimonious** — bitter in tone
-: _Example:_ An acrimonious dispute ensued.
+**ANIMATED** — Alive; moving
+ → 활기찬, 생기 있는
 
-**Acute** — Sensitive; sharp; discerning
-: _Example:_ Acute — Sensitive.
+**ANOMALY** — Something that is abnormal or irregular
+ → 이상, 예외, 변칙
 
-**Adroit** — skillful
-: _Example:_ An adroit negotiator found compromise.
+**APATHY** — Lack of emotion or interest
+ → 무관심, 냉담
 
-**Adulation** — excessive praise
-: _Example:_ He basked in public adulation.
+**APPEASE** — To soothe; to pacify by giving in to
+ → 달래다, 진정시키다, 양보하다
 
-**Adversity** — hardship; misfortune
-: _Example:_ She overcame adversity.
+**APPREHENSIVE** — Fearful about the future
+ → 불안한, 걱정되는
 
-**Advocate** — To promote (v); one who promotes a cause (n)
-: _Example:_ Advocate — To promote (v).
+**ARROGANT** — Feeling superior to others; snooty
+ → 거만한, 잘난 체하는
 
-**Aesthetic** — Related to artistic beauty
-: _Example:_ Aesthetic — Related to artistic beauty.
+**ARTICULATE** — Speaking clearly and well
+ → 명확히 말하는, 분명한
 
-**Affable** — friendly; easy to talk to
-: _Example:_ An affable host welcomed us.
+**ASCERTAIN** — To determine with certainty
+ → 확인하다, 확실히 하다
 
-**Agency** — that insures deposits in banks, protecting consumers
-: _Example:_ Agency — that insures deposits in banks, protecting consumers.
-
-**Alacrity** — cheerful readiness
-: _Example:_ She accepted with alacrity.
-
-**Alleviate** — To relieve, especially pain
-: _Example:_ Alleviate — To relieve, especially pain.
-
-**Allude** — to refer indirectly
-: _Example:_ He alluded to the problem.
-
-**Already** — Know Them!
-: _Example:_ Already — Know Them!.
-
-**Altruism** — selfless concern for others
-: _Example:_ Acts of altruism inspire change.
-
-**Amass** — To accumulate
-: _Example:_ Amass — To accumulate.
-
-**Ambiguous** — having multiple meanings
-: _Example:_ The sentence is ambiguous.
-
-**Ambivalent** — Mixed feelings; uncertain
-: _Example:_ Ambivalent — Mixed feelings.
-
-**Ameliorate** — to improve
-: _Example:_ They tried to ameliorate conditions.
-
-**Amicable** — friendly; peaceable
-: _Example:_ They reached an amicable solution.
-
-**Among** — vs. BETWEEN
-: _Example:_ Among — vs.
-
-**Anachronism** — something out of time
-: _Example:_ A sundial is an anachronism today.
-
-**Analogous** — similar; comparable
-: _Example:_ The two systems are analogous.
-
-**Analogy** — A comparison
-: _Example:_ Analogy — A comparison.
-
-**Anarchy** — Absence of government; disorder
-: _Example:_ Anarchy — Absence of government.
-
-**Anecdote** — Short interesting story
-: _Example:_ Anecdote — Short interesting story.
-
-**Animated** — Alive; moving
-: _Example:_ Animated — Alive.
-
-**Animosity** — strong hostility
-: _Example:_ Old animosities resurfaced.
-
-**Annual** — PERCENTAGE RATE (APR) The true interest rate of a loan, including fees, making it higher than the nominal
-: _Example:_ Annual — PERCENTAGE RATE (APR) The true interest rate of a loan, including fees, making it higher than the nominal.
-
-**Anomaly** — Abnormal or irregular occurrence
-: _Example:_ Anomaly — Abnormal or irregular occurrence.
-
-**Antipathy** — strong dislike
-: _Example:_ He felt antipathy toward injustice.
-
-**Apathy** — Lack of emotion or interest
-: _Example:_ Apathy — Lack of emotion or interest.
-
-**Apex** — highest point
-: _Example:_ At the apex of his career.
-
-**Aplomb** — poise; self-confidence
-: _Example:_ She handled it with aplomb.
-
-**Appease** — To soothe; pacify
-: _Example:_ Appease — To soothe.
-
-**Apprehensive** — Fearful about the future
-: _Example:_ Apprehensive — Fearful about the future.
-
-**Apprise** — to inform
-: _Example:_ Please apprise me of any changes.
-
-**Appropriate** — to take for one's use
-: _Example:_ Funds were inappropriately appropriated.
-
-**Arbitrary** — based on random choice
-: _Example:_ An arbitrary decision felt unfair.
-
-**Arcane** — known by few; mysterious
-: _Example:_ Arcane rules puzzled outsiders.
-
-**Archaic** — old; no longer in use
-: _Example:_ Archaic terms remain in law.
-
-**Arduous** — difficult; demanding
-: _Example:_ An arduous journey across the desert.
-
-**Arrogant** — Superior feeling; snooty
-: _Example:_ Arrogant — Superior feeling.
-
-**Articulate** — Clearly spoken
-: _Example:_ Articulate — Clearly spoken.
-
-**Ascertain** — To determine with certainty
-: _Example:_ Ascertain — To determine with certainty.
-
-**Ascetic** — severely self-disciplined
-: _Example:_ He led an ascetic lifestyle.
-
-**Aspersion** — a damaging remark
-: _Example:_ Cast aspersions on his character.
-
-**Assess** — how 'acrid' sensations might affect a celebratory
-: _Example:_ Assess — how 'acrid' sensations might affect a celebratory.
-
-**Asset** — Something you own; contrasted with liabilities, which are what you owe
-: _Example:_ Asset — Something you own.
-
-**Assiduous** — persistent; diligent
-: _Example:_ Her assiduous study paid off.
-
-**Assuage** — to ease or lessen
-: _Example:_ Assuage fears with facts.
-
-**Astute** — shrewd; perceptive
-: _Example:_ An astute investor spotted trends.
-
-**Audacious** — bold; daring
-: _Example:_ An audacious plan shocked everyone.
-
-**Auspicious** — favorable
-: _Example:_ An auspicious start to the year.
-
-**Austere** — severe; plain
-: _Example:_ An austere room with few decorations.
-
-**Avarice** — extreme greed
-: _Example:_ Avarice corrupted the regime.
-
-**Avert** — to prevent; turn away
-: _Example:_ Avert disaster with caution.
-
-**Avid** — enthusiastic; eager
-: _Example:_ An avid reader
+**AUTHENTIC** — Real
+ → 진짜의, 진품의
 
 ## B
-**Banal** — commonplace; trite
-: _Example:_ A banal comment added nothing.
+**BELITTLE** — To make to seem little
+ → 하찮게 보다, 깎아내리다
 
-**Bankruptcy** — A legal procedure for individuals or companies overwhelmed by debt, involving
-: _Example:_ Bankruptcy — A legal procedure for individuals or companies overwhelmed by debt, involving.
+**BELLIGERENT** — Combative; quarrelsome; waging war
+ → 호전적인, 싸움을 좋아하는
 
-**Basic** — goods, such as agricultural products and metals, traded
-: _Example:_ Basic — goods, such as agricultural products and metals, traded.
+**BENEVOLENT** — Kind; good-hearted; generous
+ → 자비로운, 친절한, 선의의
 
-**Bear** — MARKET A period of declining stock prices
-: _Example:_ Bear — MARKET A period of declining stock prices.
+**BENIGN** — Gentle; not harmful; kind; mild
+ → 온화한, 해롭지 않은, 상냥한
 
-**Belie** — to contradict; give false impression
-: _Example:_ His calm belied his anger.
+**BIAS** — Prejudice; tendency; tilt
+ → 편견, 성향
 
-**Belittle** — to make seem less important
-: _Example:_ Don't belittle her effort.
-
-**Belligerent** — Combative or quarrelsome
-: _Example:_ Belligerent — Combative or quarrelsome.
-
-**Benefactor** — one who gives help
-: _Example:_ A benefactor funded the program.
-
-**Benevolent** — Kind; generous
-: _Example:_ Benevolent — Kind.
-
-**Benign** — Gentle; harmless
-: _Example:_ Benign — Gentle.
-
-**Bequeath** — to leave to someone
-: _Example:_ He bequeathed his library to the school.
-
-**Berate** — to scold strongly
-: _Example:_ She berated the team for errors.
-
-**Bias** — Prejudice; tendency
-: _Example:_ Bias — Prejudice.
-
-**Blatant** — obvious; noisy
-: _Example:_ A blatant lie
-
-**Bonds** — Debt securities requiring the issuer to pay interest; includes government,
-: _Example:_ Bonds — Debt securities requiring the issuer to pay interest.
-
-**Book** — VALUE The estimated worth of a company if all assets were sold and liabilities paid off
-: _Example:_ Book — VALUE The estimated worth of a company if all assets were sold and liabilities paid off.
-
-**Brevity** — Quality of being brief
-: _Example:_ Brevity — Quality of being brief.
-
-**Bucolic** — pastoral; rural
-: _Example:_ A bucolic landscape
-
-**Bull** — MARKET A phase of rising stock prices
-: _Example:_ Bull — MARKET A phase of rising stock prices.
-
-**Burgeon** — to grow rapidly
-: _Example:_ Startups burgeon in the city.
+**BREVITY** — The quality or state of being brief in duration
+ → 간결함, 짧음
 
 ## C
-**Cacophony** — harsh, discordant sound
-: _Example:_ Cacophony of traffic
+**CANDOR** — Completely honest, straightforward
+ → 솔직함, 정직함
 
-**Call** — OPTION The right to buy stock at a specified price within a stipulated time
-: _Example:_ Call — OPTION The right to buy stock at a specified price within a stipulated time.
+**COMPLACENT** — Satisfied with the current situation and unconcerned with changing it
+ → 자기만족적인, 현상에 안주하는
 
-**Candor** — Complete honesty
-: _Example:_ Candor — Complete honesty.
+**COMPLIANT** — Yielding; submissive
+ → 순종적인, 유순한
 
-**Capital** — vs. CAPITOL
-: _Example:_ Capital — vs.
+**CONCISE** — Brief and to the point; succinct
+ → 간결한, 명료한
 
-**Capricious** — impulsive; unpredictable
-: _Example:_ Capricious weather
+**CONDONE** — To overlook; to permit to happen
+ → 용서하다, 묵인하다
 
-**Cathartic** — purging of emotions
-: _Example:_ A cathartic cry
+**CONGENIAL** — Agreeably suitable; pleasant
+ → 마음이 맞는, 쾌적한
 
-**Censure** — strong disapproval
-: _Example:_ The council issued a censure.
+**CONSPICUOUS** — Easy to notice; obvious (antonym: inconspicuous)
+ → 눈에 띄는, 뚜렷한
 
-**Chastise** — to punish or scold
-: _Example:_ Chastise for misconduct
-
-**Chicanery** — trickery
-: _Example:_ Political chicanery
-
-**Clarify** — the meaning of 'acumen' and how it can be related
-: _Example:_ Clarify — the meaning of 'acumen' and how it can be related.
-
-**Coalesce** — to come together
-: _Example:_ Groups coalesced into a movement.
-
-**Cogent** — convincing; forceful
-: _Example:_ A cogent argument
-
-**Cogitate** — to think deeply
-: _Example:_ He sat to cogitate the plan.
-
-**Colloquial** — informal; conversational
-: _Example:_ Colloquial expressions
-
-**Commend** — to praise
-: _Example:_ Commend outstanding work
-
-**Commission** — (SEC)The federal agency overseeing securities transactions
-: _Example:_ Commission — (SEC)The federal agency overseeing securities transactions.
-
-**Commodities** — Basic goods, such as agricultural products and metals, traded in risky markets
-: _Example:_ Commodities — Basic goods, such as agricultural products and metals, traded in risky markets.
-
-**Common** — STOCKS Shares representing ownership in a company and entitlement to dividends
-: _Example:_ Common — STOCKS Shares representing ownership in a company and entitlement to dividends.
-
-**Compare** — TO vs. COMPARE WITH
-: _Example:_ Compare — TO vs.
-
-**Compatible** — able to work together
-: _Example:_ Software compatible with Mac
-
-**Complacent** — Unconcerned with change
-: _Example:_ Complacent — Unconcerned with change.
-
-**Compound** — INTEREST Interest calculated on the initial principal and accumulated interest from previous
-: _Example:_ Compound — INTEREST Interest calculated on the initial principal and accumulated interest from previous.
-
-**Comprehensive** — complete; thorough
-: _Example:_ A comprehensive review
-
-**Concede** — to admit; yield
-: _Example:_ Concede defeat
-
-**Concise** — Brief and to the point.Key Term Definition
-: _Example:_ Concise — Brief and to the point.
-
-**Concur** — to agree
-: _Example:_ I concur with that point.
-
-**Condone** — To overlook or permit
-: _Example:_ Condone — To overlook or permit.
-
-**Conflagration** — a large destructive fire
-: _Example:_ The conflagration spread fast.
-
-**Congenial** — Pleasantly suitable
-: _Example:_ Congenial — Pleasantly suitable.
-
-**Conjecture** — a guess
-: _Example:_ Pure conjecture
-
-**Consensus** — general agreement
-: _Example:_ A broad consensus formed.
-
-**Considering** — this perspective can prompt readers to
-: _Example:_ Considering — this perspective can prompt readers to.
-
-**Conspicuous** — Obvious; easy to notice
-: _Example:_ Conspicuous — Obvious.
-
-**Constitute** — to make up; form
-: _Example:_ Constitute a majority
-
-**Construe** — to interpret
-: _Example:_ Construe the rule strictly
-
-**Contempt** — disdain; scorn
-: _Example:_ Hold in contempt
-
-**Contend** — to argue; struggle
-: _Example:_ Contend for the title
-
-**Contrite** — deeply sorry
-: _Example:_ A contrite apology
-
-**Conundrum** — a difficult problem
-: _Example:_ A moral conundrum
-
-**Convoluted** — very complicated
-: _Example:_ A convoluted plot
-
-**Copious** — abundant
-: _Example:_ Copious notes
-
-**Corporation** — (FDIC)Agency that insures deposits in banks, protecting consumers
-: _Example:_ Corporation — (FDIC)Agency that insures deposits in banks, protecting consumers.
-
-**Corroborate** — to confirm
-: _Example:_ Corroborate the evidence
-
-**Credulous** — too trusting
-: _Example:_ A credulous buyer
-
-**Cursory** — hasty; superficial
-: _Example:_ A cursory glance
+**CONTEMPT** — Reproachful disdain
+ → 경멸, 멸시
 
 ## D
-**Daniel** — Koretz in 'Measuring Up: What Educational
-: _Example:_ Daniel — Koretz in 'Measuring Up: What Educational.
+**DEBILITATE** — To weaken
+ → 약화시키다
 
-**Daunt** — to intimidate; discourage
-: _Example:_ Dangerous waves daunted the crew.
+**DEFERENCE** — Submission or courteous respect
+ → 존중, 복종
 
-**Dearth** — scarcity; lack
-: _Example:_ There is a dearth of evidence.
+**DENOUNCE** — To condemn openly
+ → 공개적으로 비난하다
 
-**Debacle** — disaster; total failure
-: _Example:_ The event turned into a debacle.
+**DEPLETE** — To use up; to reduce; to lessen
+ → 고갈시키다, 줄이다
 
-**Debilitate** — to weaken; enfeeble
-: _Example:_ Heat debilitated the players.
+**DESPONDENT** — Depressed
+ → 낙담한, 의기소침한
 
-**Debt** — securities that require the issuer to pay interest; includes
-: _Example:_ Debt — securities that require the issuer to pay interest.
+**DETER** — To prevent; to stop; to keep from doing something
+ → 막다, 단념시키다
 
-**Debunk** — to expose as false
-: _Example:_ Experiments debunked the myth.
+**DIGRESS** — To go off the subject
+ → 주제를 벗어나다
 
-**Decorum** — proper behavior
-: _Example:_ He acted with decorum.
+**DILIGENT** — Hardworking
+ → 근면한, 부지런한
 
-**Decry** — to criticize openly
-: _Example:_ Scholars decried the policy.
+**DISCERNMENT** — Insight; ability to see things clearly
+ → 통찰력, 분별력
 
-**Deference** — Respectful submission
-: _Example:_ Deference — Respectful submission.
+**DISCRIMINATE** — To differentiate; to make a clear distinction; to see the difference
+ → 구별하다, 식별하다
 
-**Define** — 'absolute' and use it in a practical sentence
-: _Example:_ Define — 'absolute' and use it in a practical sentence.
+**DISDAIN** — To regard with contempt
+ → 경멸하다
 
-**Definitive** — authoritative; conclusive
-: _Example:_ A definitive answer ended the debate.
+**DISPARAGE** — To speak of negatively; to belittle
+ → 비하하다, 깎아내리다
 
-**Deft** — skillful; nimble
-: _Example:_ A deft move changed the game.
+**DISPASSIONATE** — Without passion; objective; neutral
+ → 감정에 좌우되지 않는, 냉정한
 
-**Defunct** — no longer existing
-: _Example:_ A defunct law remained on the books.
+**DISSENT** — Disagreement
+ → 반대, 이견
 
-**Deleterious** — harmful
-: _Example:_ Deleterious effects of pollution.
+**DISTINGUISH** — To tell apart; to cause to stand out
+ → 구별하다, 식별하다
 
-**Delineate** — to describe precisely
-: _Example:_ The report delineates the steps.
+**DIVERSE** — Varied
+ → 다양한
 
-**Demur** — to object; hesitate
-: _Example:_ She demurred politely.
+**DIVERT** — To change the direction of; to alter the course of; to amuse
+ → 전환하다, 방향을 바꾸다, 즐겁게 하다
 
-**Denigrate** — to belittle; defame
-: _Example:_ They denigrated his work unfairly.
-
-**Denounce** — To condemn openly
-: _Example:_ Denounce — To condemn openly.
-
-**Deride** — to mock; ridicule
-: _Example:_ Critics derided the plan.
-
-**Derivative** — unoriginal; copied
-: _Example:_ A derivative plot bored viewers.
-
-**Describe** — urban dynamics that lead to someone 'accosting'
-: _Example:_ Describe — urban dynamics that lead to someone 'accosting'.
-
-**Desiccate** — to dry out
-: _Example:_ Herbs were desiccated in the sun.
-
-**Desultory** — aimless; random
-: _Example:_ A desultory conversation.
-
-**Detail** — the social and economic impact of an 'abysmal'
-: _Example:_ Detail — the social and economic impact of an 'abysmal'.
-
-**Deter** — To stop or prevent
-: _Example:_ Deter — To stop or prevent.
-
-**Detrimental** — harmful; damaging
-: _Example:_ Detrimental to health.
-
-**Diatribe** — bitter verbal attack
-: _Example:_ A diatribe against corruption.
-
-**Didactic** — instructive; moralizing
-: _Example:_ A didactic tone in the essay.
-
-**Diffident** — shy; lacking confidence
-: _Example:_ A diffident student spoke softly.
-
-**Digress** — To stray off-topic
-: _Example:_ Digress — To stray off-topic.
-
-**Dilapidated** — run‑down; in disrepair
-: _Example:_ A dilapidated house.
-
-**Dilatory** — slow; tending to delay
-: _Example:_ Dilatory tactics wasted time.
-
-**Dilettante** — amateur; dabbler
-: _Example:_ A dilettante in music.
-
-**Diligent** — hardworking; industrious
-: _Example:_ Diligent study leads to success.
-
-**Disabuse** — to free from error
-: _Example:_ Data disabused us of the notion.
-
-**Discerning** — having good judgment
-: _Example:_ A discerning reader.
-
-**Disclose** — to reveal
-: _Example:_ They disclosed the results.
-
-**Discreet** — careful; prudent
-: _Example:_ Be discreet about the news.
-
-**Discrepancy** — difference; inconsistency
-: _Example:_ A discrepancy in the records.
-
-**Discriminate** — To differentiate
-: _Example:_ Discriminate — To differentiate.
-
-**Discuss** — the repercussions of 'absolve' in legal
-: _Example:_ Discuss — the repercussions of 'absolve' in legal.
-
-**Disdain** — To regard with contempt
-: _Example:_ Disdain — To regard with contempt.
-
-**Disingenuous** — insincere; deceptive
-: _Example:_ A disingenuous apology.
-
-**Disparage** — To belittle
-: _Example:_ Disparage — To belittle.
-
-**Disparate** — distinct; different
-: _Example:_ Two disparate theories.
-
-**Dispassionate** — Neutral; objective
-: _Example:_ Dispassionate — Neutral.
-
-**Dispel** — to drive away; scatter
-: _Example:_ The sun dispelled the fog.
-
-**Disperse** — to scatter; spread
-: _Example:_ Winds dispersed the seeds.
-
-**Disquiet** — anxiety; unease
-: _Example:_ A mood of disquiet.
-
-**Dissent** — disagreement; to disagree
-: _Example:_ Dissent plays a vital role.
-
-**Dissuade** — to persuade not to
-: _Example:_ We dissuaded him from quitting.
-
-**Distill** — to purify; extract essence
-: _Example:_ They distilled the core idea.
-
-**Distinguish** — To tell apart
-: _Example:_ Distinguish — To tell apart.
-
-**Diverge** — to separate; differ
-: _Example:_ The paths diverge here.
-
-**Divert** — To change direction
-: _Example:_ Divert — To change direction.
-
-**Dividend** — Share of profits distributed to shareholders, typically on a quarterly basis
-: _Example:_ Dividend — Share of profits distributed to shareholders, typically on a quarterly basis.
-
-**Divulge** — to make known; reveal
-: _Example:_ She divulged the secret.
-
-**Dogged** — persistent; stubborn
-: _Example:_ Dogged determination won out.
-
-**Dogmatic** — asserting opinions as fact
-: _Example:_ A dogmatic stance alienated peers.
-
-**Doleful** — sorrowful; mournful
-: _Example:_ A doleful melody.
-
-**Dormant** — inactive; asleep
-: _Example:_ A dormant volcano.
-
-**Dubious** — doubtful; questionable
-: _Example:_ A dubious claim.
-
-**Dupe** — to deceive; a victim of deception
-: _Example:_ He was duped by the scam.
+**DUBIOUS** — Doubtful; of unlikely authenticity
+ → 의심스러운, 불확실한
 
 ## E
-**Ebullient** — enthusiastic; high‑spirited
-: _Example:_ An ebullient crowd cheered.
+**ECCENTRIC** — Not conventional; a little kooky; irregular
+ → 별난, 괴짜인, 비정상적인
 
-**Eccentric** — Irregular; unconventional
-: _Example:_ Eccentric — Irregular.
+**ELABORATE** — Detailed; careful; thorough
+ → 세밀한, 정교한, 철저한
 
-**Eclectic** — selecting from various sources
-: _Example:_ An eclectic playlist.
+**ELOQUENT** — Well-spoken
+ → 말 잘하는, 설득력 있는
 
-**Efficacy** — effectiveness
-: _Example:_ Clinical trials test efficacy.
+**EMPIRICAL** — Derived from observation or experiment
+ → 경험(실험)에 근거한
 
-**Effrontery** — shameless boldness
-: _Example:_ He had the effrontery to lie.
+**ENCROACH** — To make gradual inroads; to trespass
+ → 침입하다, 침해하다
 
-**Egregious** — outstandingly bad
-: _Example:_ An egregious error.
+**ENHANCE** — To make better; to augment
+ → 향상시키다, 강화하다
 
-**Elaborate** — Detailed; thorough
-: _Example:_ Elaborate — Detailed.
+**EVOKE** — To summon or draw forth
+ → 불러일으키다, 떠올리다
 
-**Elated** — very happy; jubilant
-: _Example:_ She felt elated after the win.
+**EXPLICIT** — Fully and clearly expressed
+ → 명백한, 분명한
 
-**Elusive** — hard to catch/define
-: _Example:_ An elusive concept.
-
-**Embellish** — to decorate; exaggerate
-: _Example:_ He embellished the story.
-
-**Empirical** — Based on observation
-: _Example:_ Empirical — Based on observation.
-
-**Emulate** — to imitate to equal or excel
-: _Example:_ She emulated her mentor.
-
-**Encroach** — To trespass
-: _Example:_ Encroach — To trespass.
-
-**Enervate** — to weaken; sap energy
-: _Example:_ Heat enervated the runners.
-
-**Engender** — to cause; give rise to
-: _Example:_ Debates engender new ideas.
-
-**English** — language by providing nuanced meanings that
-: _Example:_ English — language by providing nuanced meanings that.
-
-**Enhance** — To improve
-: _Example:_ Enhance — To improve.
-
-**Enigmatic** — mysterious; puzzling
-: _Example:_ An enigmatic smile.
-
-**Enmity** — hatred; hostility
-: _Example:_ Old enmities lingered.
-
-**Enumerate** — to list; count
-: _Example:_ Enumerate the steps clearly.
-
-**Ephemeral** — short‑lived; fleeting
-: _Example:_ Ephemeral trends fade fast.
-
-**Equanimity** — calmness under stress
-: _Example:_ She kept her equanimity.
-
-**Equity** — The difference between what you own (assets) and what you owe (liabilities)
-: _Example:_ Equity — The difference between what you own (assets) and what you owe (liabilities).
-
-**Equivocal** — ambiguous; uncertain
-: _Example:_ An equivocal answer.
-
-**Erratic** — unpredictable; irregular
-: _Example:_ Erratic behavior alarmed us.
-
-**Erudite** — learned; scholarly
-: _Example:_ An erudite professor.
-
-**Esoteric** — intended for a few; obscure
-: _Example:_ Esoteric terminology.
-
-**Euphemism** — mild term for a harsh one
-: _Example:_ “Passed away” is a euphemism.
-
-**Evoke** — To summon forth
-: _Example:_ Evoke — To summon forth.
-
-**Exacerbate** — to make worse
-: _Example:_ Pollution exacerbates asthma.
-
-**Exculpate** — to free from blame
-: _Example:_ Evidence exculpated her.
-
-**Exigent** — urgent; pressing
-: _Example:_ Exigent circumstances.
-
-**Exonerate** — to clear from blame
-: _Example:_ The court exonerated him.
-
-**Exorbitant** — unreasonably high
-: _Example:_ Exorbitant prices.
-
-**Expedite** — to speed up
-: _Example:_ We expedited the process.
-
-**Explain** — the term 'abstruse' with an example in context
-: _Example:_ Explain — the term 'abstruse' with an example in context.
-
-**Explicit** — Clearly expressed
-: _Example:_ Explicit — Clearly expressed.
-
-**Extol** — to praise highly
-: _Example:_ They extolled her work.
-
-**Extraneous** — Irrelevant or unnecessary
-: _Example:_ Extraneous — Irrelevant or unnecessary.
-
-**Extrapolate** — to infer from trends
-: _Example:_ They extrapolated future sales.
+**EXTRANEOUS** — Irrelevant; extra; unnecessary; unimportant
+ → 관련 없는, 불필요한
 
 ## F
-**Facetious** — joking at the wrong time
-: _Example:_ A facetious remark backfired.
+**FANATIC** — One who is extremely devoted to a cause or idea
+ → 열광자, 광신도
 
-**Fallacious** — based on a false idea
-: _Example:_ A fallacious argument.
+**FICKLE** — Capricious; whimsical; unpredictable
+ → 변덕스러운, 예측 불가한
 
-**Fanatic** — One with extreme devotion.Key Term Definition
-: _Example:_ Fanatic — One with extreme devotion.
+**FRIVOLOUS** — Not serious; not solemn; with levity
+ → 경박한, 하찮은
 
-**Farther** — vs. FURTHER
-: _Example:_ Farther — vs.
-
-**Fastidious** — very careful; hard to please
-: _Example:_ A fastidious editor.
-
-**Fatuous** — foolish; silly
-: _Example:_ A fatuous comment.
-
-**Feasible** — possible; workable
-: _Example:_ A feasible plan.
-
-**Fervor** — intense passion
-: _Example:_ Spoke with fervor.
-
-**Final** — Exam Drills
-: _Example:_ Final — Exam Drills.
-
-**Flagrant** — glaringly offensive
-: _Example:_ A flagrant foul.
-
-**Flippant** — disrespectfully casual
-: _Example:_ A flippant answer.
-
-**Flout** — to mock; disregard
-: _Example:_ They flouted the rules.
-
-**Foment** — to stir up; incite
-: _Example:_ They fomented unrest.
-
-**Foolhardy** — recklessly bold
-: _Example:_ A foolhardy stunt.
-
-**Former** — vs. LATTER
-: _Example:_ Former — vs.
-
-**Fortuitous** — happening by chance
-: _Example:_ A fortuitous meeting.
-
-**Fractious** — irritable; unruly
-: _Example:_ A fractious crowd.
-
-**Frivolous** — Not serious; playful
-: _Example:_ Frivolous — Not serious.
-
-**Frugal** — thrifty; economical
-: _Example:_ A frugal lifestyle.
-
-**Futile** — Without effect
-: _Example:_ Futile — Without effect.
+**FUTILE** — Hopeless; without effect
+ → 헛된, 소용없는
 
 ## G
-**Gainsay** — to deny; contradict
-: _Example:_ Hard to gainsay the data.
-
-**Garrulous** — talkative
-: _Example:_ A garrulous host.
-
-**Gre** — preparation reflects a critical factor in academic
-: _Example:_ Gre — preparation reflects a critical factor in academic.
-
-**Gregarious** — sociable
-: _Example:_ A gregarious colleague.
-
-**Guile** — deceit; cunning
-: _Example:_ He used guile to win.
-
-**Gullible** — Overly trusting
-: _Example:_ Gullible — Overly trusting.
+**GULLIBLE** — Overly trusting; willing to believe anything
+ → 잘 속는, 순진한
 
 ## H
-**Hackneyed** — overused; trite
-: _Example:_ A hackneyed phrase.
+**HEED** — To listen to
+ → 주의하다, 귀 기울이다
 
-**Harangue** — a lengthy aggressive speech
-: _Example:_ A political harangue.
-
-**Hedonist** — pleasure‑seeker
-: _Example:_ A hedonist avoids restraint.
-
-**Heed** — To listen to
-: _Example:_ Heed — To listen to.
-
-**Heretical** — against established belief
-: _Example:_ Heretical ideas spread.
-
-**Homogeneous** — of the same kind
-: _Example:_ A homogeneous mixture.
-
-**Hyperbole** — exaggeration
-: _Example:_ “I waited forever” is hyperbole.
-
-**Hypothetical** — Uncertain; unproven
-: _Example:_ Hypothetical — Uncertain.
+**HYPOTHETICAL** — Uncertain; unproven
+ → 가설의, 불확실한
 
 ## I
-**Iconoclast** — attacker of beliefs
-: _Example:_ An iconoclast challenged norms.
+**IMPARTIAL** — Unbiased; neutral
+ → 공정한, 중립적인
 
-**Identify** — editing processes involved when one seeks to
-: _Example:_ Identify — editing processes involved when one seeks to.
+**IMPERATIVE** — Completely necessary
+ → 필수적인, 반드시 필요한
 
-**Idiosyncrasy** — peculiarity of habit
-: _Example:_ An idiosyncrasy of his speech.
+**IMPLICIT** — Implied
+ → 암시된, 함축적인
 
-**Ignoble** — dishonorable
-: _Example:_ An ignoble act.
+**INADVERTENT** — Lax; careless; without intention
+ → 부주의한, 무심코 한
 
-**Illicit** — illegal
-: _Example:_ Illicit trade was halted.
+**INCESSANT** — Unceasing; never-ending
+ → 끊임없는, 계속되는
 
-**Illusory** — deceptive; not real
-: _Example:_ Illusory gains.
+**INCOHERENT** — Jumbled; chaotic; impossible to understand
+ → 두서없는, 일관성 없는
 
-**Illustrate** — the meaning of 'abysmal' and provide a context
-: _Example:_ Illustrate — the meaning of 'abysmal' and provide a context.
+**INDIFFERENT** — Having no interest or concern
+ → 무관심한, 관심 없는
 
-**Immutable** — unchangeable
-: _Example:_ Immutable laws of physics.
+**INDIGNATION** — Anger aroused by something perceived as unjust
+ → 분노, 분개
 
-**Impair** — to damage; weaken
-: _Example:_ Noise impairs sleep.
+**INDULGENT** — Lenient; yielding to desire
+ → 관대한, 제멋대로 하게 두는
 
-**Impartial** — Unbiased; neutral
-: _Example:_ Impartial — Unbiased.
+**INEVITABLE** — Unavoidable; bound to happen
+ → 피할 수 없는, 불가피한
 
-**Impassive** — not showing emotion
-: _Example:_ An impassive face.
+**INNATE** — Existing since birth; inborn; inherent
+ → 타고난, 선천적인
 
-**Imperative** — Completely necessary
-: _Example:_ Imperative — Completely necessary.
+**INNOVATION** — The act of introducing something new
+ → 혁신, 새로운 도입
 
-**Impetuous** — rash; hasty
-: _Example:_ An impetuous decision.
+**INSTIGATE** — To provoke; to stir up
+ → 부추기다, 선동하다
 
-**Implacable** — unable to be appeased
-: _Example:_ An implacable opponent.
+**IRONIC** — Satiric; unexpected
+ → 반어적인, 예상 밖의
 
-**Implicit** — implied; not stated
-: _Example:_ Implicit rules exist.
-
-**Inadvertent** — Careless; unintended
-: _Example:_ Inadvertent — Careless.
-
-**Inchoate** — rudimentary; just begun
-: _Example:_ An inchoate idea.
-
-**Incoherent** — Chaotic; jumbled
-: _Example:_ Incoherent — Chaotic.
-
-**Incongruous** — inappropriate; inconsistent
-: _Example:_ An incongruous detail.
-
-**Indignation** — Anger from injustice
-: _Example:_ Indignation — Anger from injustice.
-
-**Indolent** — lazy; sluggish
-: _Example:_ An indolent afternoon.
-
-**Indulgent** — Yielding to desire
-: _Example:_ Indulgent — Yielding to desire.
-
-**Ineffable** — inexpressible
-: _Example:_ Ineffable beauty.
-
-**Inert** — motionless; inactive
-: _Example:_ Chemically inert gas.
-
-**Ingenuous** — innocent; naive
-: _Example:_ An ingenuous smile.
-
-**Inherent** — inborn; essential
-: _Example:_ An inherent risk.
-
-**Inimical** — hostile; harmful
-: _Example:_ Inimical to progress.
-
-**Innate** — Inborn; inherent
-: _Example:_ Innate — Inborn.
-
-**Innocuous** — harmless
-: _Example:_ An innocuous remark.
-
-**Innovation** — Introducing something new
-: _Example:_ Innovation — Introducing something new.
-
-**Insipid** — dull; tasteless
-: _Example:_ An insipid soup.
-
-**Instigate** — To provoke
-: _Example:_ Instigate — To provoke.
-
-**Intractable** — hard to manage
-: _Example:_ An intractable problem.
-
-**Inundate** — to flood; overwhelm
-: _Example:_ Emails inundated the inbox.
-
-**Investigate** — how winning 'accolades' shapes the
-: _Example:_ Investigate — how winning 'accolades' shapes the.
-
-**Investment** — vehicle pooling money from multiple investors to
-: _Example:_ Investment — vehicle pooling money from multiple investors to.
-
-**Irascible** — easily angered
-: _Example:_ An irascible driver.
-
-**Ironic** — Unexpected; satirical
-: _Example:_ Ironic — Unexpected.
+## J
+**JEOPARDY** — Danger
+ → 위험
 
 ## L
-**Laconic** — brief; terse
-: _Example:_ A laconic reply.
+**LAMENT** — To mourn
+ → 슬퍼하다, 애도하다
 
-**Lament** — to mourn; regret
-: _Example:_ They lamented the loss.
-
-**Laud** — to praise
-: _Example:_ Scholars laud the discovery.
-
-**Less** — than 100 shares of stock
-: _Example:_ Less — than 100 shares of stock.
-
-**Lethargic** — sluggish; inactive
-: _Example:_ Feeling lethargic.
-
-**Loquacious** — talkative
-: _Example:_ A loquacious friend.
+**LETHARGY** — Sluggishness; laziness; drowsiness; indifference
+ → 무기력, 나태, 졸림
 
 ## M
-**Magnanimous** — generous; noble
-: _Example:_ A magnanimous gesture.
+**MALICIOUS** — Deliberately harmful
+ → 악의적인, 해로운
 
-**Malleable** — Capable of being shaped
-: _Example:_ Malleable — Capable of being shaped.
+**MALLEABLE** — Capable of being shaped
+ → 유연한, 변형 가능한
 
-**Margin** — Buying stocks with borrowed funds, posing risk if stock prices fall
-: _Example:_ Margin — Buying stocks with borrowed funds, posing risk if stock prices fall.
+**MEDIATION** — A settlement between conflicting parties
+ → 중재, 조정
 
-**Mediation** — Settlement between parties
-: _Example:_ Mediation — Settlement between parties.
-
-**Mendacious** — lying; untruthful
-: _Example:_ A mendacious account.
-
-**Merger** — Joining or marriage
-: _Example:_ Merger — Joining or marriage.
-
-**Metamorphosis** — change of form
-: _Example:_ A caterpillar's metamorphosis.
-
-**Mitigate** — to lessen; ease
-: _Example:_ Mitigate risks with checks.
-
-**Mollify** — to soothe; calm
-: _Example:_ Mollify angry customers.
-
-**Morose** — gloomy; sullen
-: _Example:_ A morose expression.
-
-**Mortgage** — A loan for purchasing property, where the lender retains rights to the property if
-: _Example:_ Mortgage — A loan for purchasing property, where the lender retains rights to the property if.
-
-**Mundane** — ordinary; worldly
-: _Example:_ Mundane tasks.
-
-**Mutual** — FUND Investment vehicle pooling money from multiple investors to invest in various
-: _Example:_ Mutual — FUND Investment vehicle pooling money from multiple investors to invest in various.
+**MERGER** — A joining or marriage
+ → 합병, 결합
 
 ## N
-**Naive** — innocent; unsophisticated
-: _Example:_ A naive assumption.
+**NEGLIGENCE** — Carelessness
+ → 부주의, 태만
 
-**Nascent** — emerging; budding
-: _Example:_ Nascent technology.
+**NEUTRAL** — Unbiased; not taking sides; objective
+ → 중립적인, 공평한
 
-**Negligible** — so small as to be unimportant
-: _Example:_ A negligible effect.
+**NOSTALGIA** — A bittersweet longing for things of the past
+ → 향수, 그리움
 
-**Neophyte** — beginner
-: _Example:_ A neophyte coder.
-
-**Neutral** — Unbiased; objective
-: _Example:_ Neutral — Unbiased.
-
-**Nostalgia** — Longing for the past
-: _Example:_ Nostalgia — Longing for the past.
-
-**Novel** — New; original
-: _Example:_ Novel — New.
+**NOVEL (adj)** — Fresh; original; new
+ → 새로운, 신선한
 
 ## O
-**Obdurate** — stubborn; unyielding
-: _Example:_ An obdurate stance.
+**OBSCURE (adj)** — Not readily noticed; vague
+ → 모호한, 눈에 띄지 않는
 
-**Objective** — Uninfluenced by emotions
-: _Example:_ Objective — Uninfluenced by emotions.
+**OBJECTIVE (adj/n)** — Uninfluenced by emotions; n a goal
+ → 객관적인 / 목표
 
-**Obscure** — Not easily noticed.Key Term Definition
-: _Example:_ Obscure — Not easily noticed.
-
-**Obsequious** — overly submissive
-: _Example:_ An obsequious assistant.
-
-**Obstinate** — stubborn
-: _Example:_ An obstinate child.
-
-**Obviate** — to prevent; make unnecessary
-: _Example:_ Seatbelts obviate some injuries.
-
-**Occlude** — to block; close off
-: _Example:_ An occluded artery.
-
-**Odd** — LOT Less than 100 shares of stock
-: _Example:_ Odd — LOT Less than 100 shares of stock.
-
-**Onerous** — burdensome; heavy
-: _Example:_ An onerous task.
-
-**Opaque** — not transparent; hard to understand
-: _Example:_ Opaque instructions.
-
-**Opprobrium** — public disgrace
-: _Example:_ Face opprobrium for cheating.
-
-**Option** — A contract granting the right to buy or sell a stock at a specific price in the future
-: _Example:_ Option — A contract granting the right to buy or sell a stock at a specific price in the future.
-
-**Ostensible** — apparent; supposed
-: _Example:_ Ostensible reasons varied.
-
-**Outline** — the developmental stages in a child's
-: _Example:_ Outline — the developmental stages in a child's.
-
-**Over-The-Counter** — (OTC) STOCK Stocks not traded on major exchanges, typically of smaller firms
-: _Example:_ Over-The-Counter — (OTC) STOCK Stocks not traded on major exchanges, typically of smaller firms.
+**OMINOUS** — Menacing; threatening
+ → 불길한, 위협적인
 
 ## P
-**Pervade** — To be present throughout
-: _Example:_ Pervade — To be present throughout.
+**PERIPHERAL** — Unimportant
+ → 중요하지 않은, 주변의
 
-**Pragmatic** — Practical; based on experience
-: _Example:_ Pragmatic — Practical.
+**PERVADE** — To be present throughout
+ → 퍼지다, 스며들다
 
-**Predecessor** — Something that came before
-: _Example:_ Predecessor — Something that came before.
+**PRAGMATIC** — Practical; down-to-earth; based on experience rather than theory
+ → 실용적인, 현실적인
 
-**Prime** — RATE The interest rate banks charge their most creditworthy clients.Term Definition
-: _Example:_ Prime — RATE The interest rate banks charge their most creditworthy clients.
+**PREDECESSOR** — Someone or something that came before another
+ → 전임자, 선행자
 
-**Prize** — often see significant boosts in career opportunities,
-: _Example:_ Prize — often see significant boosts in career opportunities,.
+**PROFOUND** — Deep; insightful (antonym: superficial)
+ → 깊은, 통찰력 있는
 
-**Profit** — from the sale of an asset, calculated as the difference
-: _Example:_ Profit — from the sale of an asset, calculated as the difference.
+**PROFUSE** — Flowing; extravagant
+ → 풍부한, 넘치는
 
-**Profound** — Deep; insightful
-: _Example:_ Profound — Deep.
+**PROVOCATIVE** — Giving rise to action or feeling
+ → 자극적인, 도발적인
 
-**Provide** — practical examples
-: _Example:_ Provide — practical examples.
-
-**Provocative** — Stimulating action or feeling
-: _Example:_ Provocative — Stimulating action or feeling.
-
-**Proxy** — A method for shareholders to vote in company decisions without attending the
-: _Example:_ Proxy — A method for shareholders to vote in company decisions without attending the.
-
-**Prudent** — Careful; wise
-: _Example:_ Prudent — Careful.
-
-**Pulitzer** — Prize for exceptional work in investigative
-: _Example:_ Pulitzer — Prize for exceptional work in investigative.
-
-**Pullum** — in 'The Zombeck Defense' argue that
-: _Example:_ Pullum — in 'The Zombeck Defense' argue that.
-
-## Q
-**Quick** — Quiz Answers
-: _Example:_ Quick — Quiz Answers.
+**PRUDENT** — Careful; wise
+ → 신중한, 현명한
 
 ## R
-**Reciprocate** — To mutually respond
-: _Example:_ Reciprocate — To mutually respond.
+**RECIPROCATE** — To mutually take or give; to respond in kind
+ → 보답하다, 상호 작용하다
 
-**Redundant** — Excessively wordy
-: _Example:_ Redundant — Excessively wordy.
+**REDUNDANT** — Repetitive; unnecessary; excessively wordy
+ → 불필요한, 중복된
 
-**Refute** — To disprove
-: _Example:_ Refute — To disprove.
+**REFUTE** — To disprove; to prove to be false
+ → 반박하다, 논박하다
 
-**Relevant** — Important; pertinent
-: _Example:_ Relevant — Important.
+**REJUVENATE** — To make young and strong again
+ → 젊어지게 하다, 활력을 주다
 
-**Repress** — To hold down
-: _Example:_ Repress — To hold down.
+**RELEVANT** — Important; pertinent
+ → 관련 있는, 중요한
 
-**Resignation** — Acceptance of the situation
-: _Example:_ Resignation — Acceptance of the situation.
+**REMORSE** — Sadness; regret
+ → 후회, 죄책감
 
-**Retract** — To withdraw
-: _Example:_ Retract — To withdraw.
+**REPRESS** — To hold down
+ → 억누르다, 억제하다
 
-**Rigorous** — Strict or harsh
-: _Example:_ Rigorous — Strict or harsh.
+**REPUDIATE** — To reject; to deny
+ → 거부하다, 부인하다
+
+**RESIGNATION** — Unresisting acceptance; submission
+ → 체념, 포기, 사직
+
+**RETRACT** — To take back; to withdraw; to pull back
+ → 철회하다, 취소하다
+
+**RIGOROUS** — Strict; harsh; severe
+ → 엄격한, 혹독한
 
 ## S
-**Scrutinize** — To examine closely
-: _Example:_ Scrutinize — To examine closely.
+**SCANTY** — Inadequate; minimal
+ → 부족한, 빈약한
 
-**Selling** — SHORT Selling stock not owned in anticipation of a price drop to buy it back at a lower
-: _Example:_ Selling — SHORT Selling stock not owned in anticipation of a price drop to buy it back at a lower.
+**SCRUTINIZE** — To examine closely
+ → 면밀히 조사하다
 
-**Share** — of profits distributed to shareholders, typically on a
-: _Example:_ Share — of profits distributed to shareholders, typically on a.
+**SKEPTICAL** — Doubting (antonym: gullible)
+ → 회의적인, 의심 많은
 
-**Shares** — representing ownership in a company and entitlement
-: _Example:_ Shares — representing ownership in a company and entitlement.
+**SOLEMN** — Serious; grave
+ → 진지한, 엄숙한
 
-**Situate** — 'absolute' within moral discussions in philosophy
-: _Example:_ Situate — 'absolute' within moral discussions in philosophy.
+**SQUANDER** — To waste
+ → 낭비하다
 
-**Solemn** — Serious; grave
-: _Example:_ Solemn — Serious.
+**STAGNATION** — Motionlessness; inactivity
+ → 침체, 정체
 
-**Something** — you own; contrasted with liabilities, which are
-: _Example:_ Something — you own.
+**STRINGENT** — Strict; restrictive
+ → 엄격한, 제한적인
 
-**Stationary** — vs. STATIONERY
-: _Example:_ Stationary — vs.
+**SUBSTANTIATE** — To support with proof or evidence; verify
+ → 입증하다, 증명하다
 
-**Stock** — SPLIT An increase in the number of shares with a proportional decrease in their price
-: _Example:_ Stock — SPLIT An increase in the number of shares with a proportional decrease in their price.
+**SUBTLE** — Not obvious; able to make fine distinctions; ingenious; crafty
+ → 미묘한, 교묘한
 
-**Substantiate** — To support with proof
-: _Example:_ Substantiate — To support with proof.
-
-**Subtle** — Not obvious; crafty
-: _Example:_ Subtle — Not obvious.
-
-**Superficial** — Shallow; unimportant
-: _Example:_ Superficial — Shallow.
+**SUPERFICIAL** — Near the surface; shallow; unimportant
+ → 피상적인, 얕은, 중요하지 않은
 
 ## T
-**Tangible** — Touchable.Key Term Definition
-: _Example:_ Tangible — Touchable.
+**TANGIBLE** — Touchable; palpable
+ → 만질 수 있는, 구체적인
 
-**Tax** — SHELTER An investment that reduces taxable income, many of which have been eliminated
-: _Example:_ Tax — SHELTER An investment that reduces taxable income, many of which have been eliminated.
+**TEMPERATE** — Moderate; restrained
+ → 절제된, 온화한
 
-**Tenacious** — Tough; hard to defeat
-: _Example:_ Tenacious — Tough.
+**TENACIOUS** — Tough; hard to defeat
+ → 끈질긴, 집요한
 
-**Tentative** — Uncertain; temporary
-: _Example:_ Tentative — Uncertain.
-
-**Testing** — Really Tells Us'. This dichotomy suggests that
-: _Example:_ Testing — Really Tells Us'.
+**TENTATIVE** — Experimental; temporary; uncertain
+ → 잠정적인, 불확실한
 
 ## U
-**Uncle** — George had taken the big bus uptown
-: _Example:_ Uncle — George had taken the big bus uptown.
+**UNDERMINE** — To weaken
+ → 약화시키다
 
-**Underscore** — To emphasize
-: _Example:_ Underscore — To emphasize.
+**UNDERSCORE** — To put emphasis on
+ → 강조하다
 
-**Understanding** — Word Roots
-: _Example:_ Understanding — Word Roots.
+**UNIFORM** — Consistent; unchanging; the same for everyone
+ → 일정한, 변함없는
 
-**Uniform** — Consistent; unchanging
-: _Example:_ Uniform — Consistent.
-
-**Unprecedented** — Novel; never seen before
-: _Example:_ Unprecedented — Novel.
+**UNPRECEDENTED** — Happening for the first time; novel; never seen before
+ → 전례 없는, 새로운
 
 ## V
-**Viii** — of England, who abdicated the throne to marry Wallis
-: _Example:_ Viii — of England, who abdicated the throne to marry Wallis.
+**VOLATILE** — Quick to evaporate; highly unstable; explosive
+ → 불안정한, 휘발성의
 
-**Volatile** — Highly unstable; explosive
-: _Example:_ Volatile — Highly unstable.
-
-**Voluntary** — Willing; unforced
-: _Example:_ Voluntary — Willing.
-
-## W
-**Warrant** — A security giving the holder the right to purchase stock at a specific price within a
-: _Example:_ Warrant — A security giving the holder the right to purchase stock at a specific price within a.
-
-**What** — is essential for building a vocabulary?
-: _Example:_ What — is essential for building a vocabulary?.
-
-**Willful** — Deliberate; insistent
-: _Example:_ Willful — Deliberate.
+**VOLUNTARY** — Willing; unforced
+ → 자발적인, 자진한
 
 ## Y
-**Yield** — Annual income from an investment expressed as a percentage of its cost
-: _Example:_ Yield — Annual income from an investment expressed as a percentage of its cost.
+**WILLFUL** — Deliberate; obstinate; insistent on having one’s way
+ → 고의적인, 제멋대로인
 
 
 
