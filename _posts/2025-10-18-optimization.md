@@ -113,6 +113,3 @@ So why not use the “ideal” dimensions? I think it's because real-world desig
 **Practicality:** Easier to hold and stack when tall.
 
 **Designs:** Simply looks better in thinner can than a fatter can.
-
-
-
