@@ -11,9 +11,7 @@ toc: false
 When you pick up a 500 mL drink can, have you ever wondered—
  is its shape mathematically optimal for holding that volume with minimum material?
 
-![Uploaded image](https://chatgpt.com/backend-api/estuary/content?id=file_000000003b606208a77a392bdffe82fc&ts=489274&p=fs&cid=1&sig=23f3d257aa39df0b532e10d38e0110d94b813312754eeae732c419c89d3c5e93&v=0)
-
-
+![16.9oz./ 500ml Standard | Crown](https://www.crowncork.com/sites/default/files/styles/can_large/public/2022-04/Standard-16.9oz.-211-Can-500ml-2x.jpg?itok=_t0dm8UP)
 
 Let’s find out.
  (assume the can is a perfect cylinder, ignoring the weird curved top and bottom shape.)
