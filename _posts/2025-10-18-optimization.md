@@ -11,7 +11,7 @@ toc: false
 When you pick up a 500 mL drink can, have you ever wondered—
  is its shape mathematically optimal for holding that volume with minimum material?
 
-![16.9oz./ 500ml Standard | Crown](https://www.crowncork.com/sites/default/files/styles/can_large/public/2022-04/Standard-16.9oz.-211-Can-500ml-2x.jpg?itok=_t0dm8UP)
+<img src="/assets/images/2025-10-18-optimization/Screenshot 2025-10-25 at 8.33.11 PM.png" style="zoom:33%;" />
 
 Let’s find out.
  (assume the can is a perfect cylinder, ignoring the weird curved top and bottom shape.)
@@ -25,8 +25,11 @@ Let’s find out.
 ## 📦 Step 1. Known Information
 
 - **Volume:** $V = 500\ \text{mL} = 500\ \text{cm}^3$
+
 - **Typical Can Dimensions:**
+   
    $h = 16.8\ \text{cm}$
+   
    $r = 3.3\ \text{cm}$
 
 ## 📐 Step 2. Volume Formula
@@ -91,6 +94,8 @@ $$
 
 
 Then, 
+
+
 $$
 r=4.301
 $$
@@ -102,16 +107,19 @@ h = \frac {500}{4.301^2 \pi}=8.604
 $$
 
 
-![Screenshot 2025-10-25 at 7.54.02 PM](/assets/images/2025-10-18-optimization/Screenshot 2025-10-25 at 7.54.02 PM.png) <sub> optimal can
-
-![image-20251025200052939](/assets/images/2025-10-18-optimization/image-20251025200052939.png)<sub> actual can
-
-Source: [Matheretter – Cylinder Calculator 3D](https://www.matheretter.de/calc/cylinder)
 
 
 
 ✅ **Result:** For a cylinder with minimum surface area,
  the **height should be 8.604 cm, and the radius should be 4.301 cm **, which deviates from the actual dimensions. The actual can is thinner and taller. 
+
+
+
+![Screenshot 2025-10-25 at 7.54.02 PM](/assets/images/2025-10-18-optimization/Screenshot 2025-10-25 at 7.54.02 PM.png) <sub> optimal can
+
+![image-20251025200052939](/assets/images/2025-10-18-optimization/image-20251025200052939.png)<sub> actual can
+
+Source: [Matheretter – Cylinder Calculator 3D](https://www.matheretter.de/calc/cylinder)
 
 ## 🧠 Step 6. Conclusion
 
@@ -119,6 +127,6 @@ The real 500 mL can is far from the optimal, "ideal" dimensions.
 
 So why not use the “ideal” dimensions? I think it's because real-world design considers
 
-**Practicality:** Easier to hold and stack when tall.
+- **Practicality:** Easier to hold and stack when tall.
 
-**Designs:** Simply looks better in thinner can than a fatter can.
+- **Designs:** Simply looks better in thinner can than a fatter can.
