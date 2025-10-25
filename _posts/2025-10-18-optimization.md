@@ -110,8 +110,10 @@ $$
 
 
 
+
+
 ✅ **Result:** For a cylinder with minimum surface area,
- the **height should be 8.604 cm, and the radius should be 4.301 cm **, which deviates from the actual dimensions. The actual can is thinner and taller. 
+ the height should be **8.604 cm**, and the radius should be **4.301 cm** , which deviates from the actual dimensions (h=16.8cm, r=3.3cm). The actual can is much thinner and taller. 
 
 
 
@@ -119,7 +121,7 @@ $$
 
 ![image-20251025200052939](/assets/images/2025-10-18-optimization/image-20251025200052939.png)<sub> actual can
 
-Source: [Matheretter – Cylinder Calculator 3D](https://www.matheretter.de/calc/cylinder)
+<sub> Source: [Matheretter – Cylinder Calculator 3D](https://www.matheretter.de/calc/cylinder)
 
 ## 🧠 Step 6. Conclusion
 
