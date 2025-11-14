@@ -52,6 +52,7 @@ Because there are so many reserves, the Fed doesn’t control interest rates by 
 - **Interest on Reserve Balances (IORB):** How much the Fed pays banks for keeping their money there.
 
 👉 When the Fed **raises** these rates, banks prefer to **hold onto their reserves** instead of lending — the economy slows down (recessionary gap).
+
  👉 When the Fed **lowers** them, banks **lend more** — the economy speeds up (expansionary gap).
 
 ## ⚖️ **Why It Matters**
