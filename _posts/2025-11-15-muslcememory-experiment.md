@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Muscle My Muscle Memory Experiment: How Fast Can My Strength Come Back?"
+title: "My Muscle Memory Experiment: How Fast Can My Strength Come Back?"
 typora-root-url: ../
 author_profile: false
 mathjax: true
