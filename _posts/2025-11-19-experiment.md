@@ -5,7 +5,7 @@ typora-root-url: ../
 author_profile: false
 mathjax: true
 category: "experiment"
-toc: 
+toc: true
 ---
 
 Hello, I've got some bad news. 
@@ -14,11 +14,19 @@ Hello, I've got some bad news.
  The *execution load* is too heavy right now:
 
 - daily workouts
+
 - precise calorie surplus
+
 - 130–160g protein
+
 - consistent sleep
+
 - weekly testing
+
 - documentation
+   
+   
+   
    I'm a Grade 11 student with AP classes, college prep, etc. This is objectively too demanding.
 
 
@@ -51,13 +59,7 @@ It is going to look like
 
 
 
-## How my work could be used
-
-This revised plan shifts my project from “gym challenge” → to actual scientific modelling
-
-
-
-### My formula could help:
+## My formula could help:
 
 - Beginners who return from injury
 - Athletes planning off-season recovery
