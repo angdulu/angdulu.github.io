@@ -4,7 +4,7 @@ title: "Maxwell Boltzmann Distribution Curve"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: science
+category: "science"
 
 ---
 

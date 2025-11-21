@@ -4,7 +4,7 @@ title: "My Muscle Memory Experiment: How Fast Can My Strength Come Back?"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: experiment
+category: "experiment"
 toc: true
 ---
 

@@ -4,7 +4,7 @@ title: "Optimatization"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: math
+category: "math"
 toc: false
 ---
 

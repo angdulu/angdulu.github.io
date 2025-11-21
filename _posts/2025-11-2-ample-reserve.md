@@ -4,6 +4,7 @@ title: "Ample Reserve"
 typora-root-url: ../
 author_profile: false
 mathjax: true
+category: "economics"
 toc: false
 ---
 
