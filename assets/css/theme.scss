@@ -117,68 +117,7 @@ html, body, *, button, input, select, textarea {
   font-family: var(--ui-font);
 }
 
-/******************************************
-   RIGHT SIDEBAR TOC — FINAL CLEAN VERSION
-******************************************/
 
-/* 전체 컨테이너 */
-.toc {
-  backdrop-filter: blur(18px) saturate(180%);
-  -webkit-backdrop-filter: blur(18px) saturate(180%);
-  background: rgba(30, 30, 30, 0.45) !important;
-  border-radius: 16px !important;
-  border: 1px solid rgba(255,255,255,0.08) !important;
-  padding: 16px 18px !important;
-}
-
-/* 제목 */
-.toc .nav__title {
-  background: transparent !important;
-  color: var(--fg) !important;
-  font-size: 0.9rem !important;
-  margin-bottom: 10px !important;
-}
-
-/* 목록 */
-.toc .toc__menu,
-.toc .toc__menu ul {
-  list-style: none !important;
-  margin: 0;
-  padding: 0;
-  font-size: 0.75rem !important;
-  line-height: 1.3 !important;
-}
-
-/* 링크 */
-.toc .toc__menu a {
-  color: var(--link) !important;
-  text-decoration: none !important;
-  display: block;
-  padding: 3px 0 !important;
-  opacity: 0.9;
-  transition: 0.15s ease;
-  font-weight: 500;
-}
-
-.toc .toc__menu a:hover {
-  opacity: 1;
-  transform: translateX(2px);
-  color: #aecbfa !important;
-}
-
-/* 하위 섹션 */
-.toc .toc__menu ul ul a {
-  padding-left: 14px !important;
-  font-size: 0.66rem !important;
-  opacity: 0.85;
-}
-
-/* active fix */
-.toc .toc__menu .active > a {
-  background: transparent !important;
-  color: var(--fg) !important;
-  font-weight: 600 !important;
-}
 /* Fix dark mode title readability */
 .page__title,
 .page__title a,
@@ -188,14 +127,101 @@ html, body, *, button, input, select, textarea {
   color: var(--fg) !important;
   opacity: 1 !important;
 }
-/* Light mode TOC background (clean white card) */
-:root[color-theme="light"] .toc {
-  background: rgba(255, 255, 255, 0.8) !important;
-  border: 1px solid #e6e6e6 !important;
+/******************************************
+   GOOGLE DOCS STYLE — CLEAN & MINIMAL TOC
+******************************************/
+
+/* 전체 컨테이너 */
+.toc {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 0 0 16px !important;
+  margin-top: 10px;
+  position: relative;
 }
 
-/* Dark mode TOC background (Apple style) */
-:root[color-theme="dark"] .toc {
-  background: rgba(30,30,30,0.45) !important;
-  border: 1px solid rgba(255,255,255,0.08) !important;
+/* 왼쪽 회색 라인 */
+.toc::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2px;
+  height: 100%;
+  background: #d0d0d0 !important; /* 파란색 → 회색 */
+  border-radius: 2px;
+  opacity: 0.7;
+}
+
+/* dark mode 라인 */
+:root[color-theme="dark"] .toc::before {
+  background: #555 !important;
+  opacity: 0.6;
+}
+
+/* "On this page" 제목 — 박스 제거 */
+.toc .nav__title {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin-bottom: 12px !important;
+  font-size: 0.74rem !important;
+  font-weight: 600 !important;
+  color: var(--fg) !important;
+  opacity: 0.7 !important;
+}
+
+/* 목록 초기화 */
+.toc .toc__menu,
+.toc .toc__menu ul {
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+/* 기본 링크 스타일 */
+.toc .toc__menu a {
+  display: block;
+  text-decoration: none;
+  color: var(--fg) !important;
+  font-size: 0.78rem !important;
+  padding: 6px 0 !important;
+  opacity: 0.9;
+  border-bottom: 1px solid #3a3a3a22; /* 매우 연한 줄 */
+  transition: 0.15s ease;
+}
+
+/* 마지막 항목 아래 줄 제거 */
+.toc .toc__menu > li:last-child > a {
+  border-bottom: none !important;
+}
+
+/* hover */
+.toc .toc__menu a:hover {
+  transform: translateX(2px);
+  opacity: 1;
+}
+
+/* active */
+.toc .toc__menu .active > a {
+  font-weight: 600 !important;
+  color: var(--link) !important;
+}
+
+/* 하위 단계 */
+.toc .toc__menu ul ul a {
+  padding-left: 14px !important;
+  font-size: 0.72rem !important;
+  opacity: 0.75;
+  border-bottom: none !important; /* Google Docs 스타일 — 하위항목 줄 없음 */
+}
+
+.toc .toc__menu ul ul ul a {
+  padding-left: 26px !important;
+  font-size: 0.70rem !important;
+  opacity: 0.65;
+}
+/* Fix: Scroll active item turning white */
+.toc .toc__menu .active > a {
+  background: transparent !important;
 }
