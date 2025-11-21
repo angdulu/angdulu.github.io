@@ -5,7 +5,7 @@ typora-root-url: ../
 author_profile: false
 mathjax: true
 category: "coding"
-toc: false
+toc: true
 ---
 
 ## Before
