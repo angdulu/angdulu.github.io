@@ -5,10 +5,10 @@ typora-root-url: ../
 author_profile: false
 mathjax: true
 category: "math"
-toc: false
+toc: true
 ---
 
-# AP Cal BC U4 Contextual Applications of Differentiation
+# Contextual Applications of Differentiation
 
 When you pick up a 500 mL drink can, have you ever wondered—
  is its shape mathematically optimal for holding that volume with minimum material?
@@ -125,11 +125,19 @@ $$
 
 <sub> Source: [Matheretter – Cylinder Calculator 3D](https://www.matheretter.de/calc/cylinder)
 
-## 🧠 Step 6. Conclusion
+
+
+## 🧠 Step 5. Conclusion
 
 The real 500 mL can is far from the optimal, "ideal" dimensions.
 
-So why not use the “ideal” dimensions? I think it's because real-world design considers
+
+
+Then let's think about why the real-world design does not use the “ideal” dimensions.
+
+
+
+For me, I think it's because real-world design considers
 
 - **Practicality:** Easier to hold and stack when tall.
 
