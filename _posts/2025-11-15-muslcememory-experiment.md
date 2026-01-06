@@ -206,7 +206,7 @@ with this I would be able to compare:
 | **Week 7** | 86 kg               | 67.5 kg              | + 4 kg                 | New PR territory begins. Slight hypertrophy beyond old peak. |
 | **Week 8** | 87.5 kg             | 68 kg                | + 4.3 kg               | Strength gains normalize. Muscle mass slowly surpasses old best. |
 
-<sub> I don't know my current muscle mass sry
+<sub> * I don't know my current muscle mass sry
 
 **Critical Factors for This Outcome**
 
@@ -222,12 +222,10 @@ This hypothesis depends on three key factors that I must control for in the expe
 
 ## 📊 **What I Will Publish Later**
 
-After 2–4 weeks, I will upload:
+ I will upload:
 
 - Graph of **1RM vs time**
 
 - Graph of **Body weight vs time**
-
-- Graph of **Muscle mass vs time**
 
   
