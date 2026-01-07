@@ -84,13 +84,17 @@ Because Jeju National University Hospital is the largest hospital in the region,
 2. Rt = 1, Lt = 2.
 
 3. Please use the patient registration date.
+
+
+
+I think I understand the first point now. Regarding the KSS pain/knee subtotal, should we enter the subtotal that includes deductions in the knee score, or should we use only the raw knee score without deductions?
 ```
 
 
 
 
 
-I think I understand the first point now. Regarding the KSS pain/knee subtotal, should we enter the subtotal that includes deductions in the knee score, or should we use only the raw knee score without deductions?
+
 
 ![0EF5A655-B659-40BB-A482-6598D16D2491_1_105_c](/assets/images/2025-1-7-hospital-shadowing/0EF5A655-B659-40BB-A482-6598D16D2491_1_105_c.jpeg)
 
