@@ -5,7 +5,7 @@ typora-root-url: ../
 author_profile: false
 mathjax: true
 category: "daily"
-toc: 
+toc: false
 ---
 
 This winter break has been anything but ordinary. While it is still ongoing, it has already reshaped how I see medicine, research, and my own responsibility as someone interested in science and healthcare.
@@ -48,9 +48,15 @@ The second day was a surgical day. After completing all required procedures rela
 
 ![Screenshot 2026-01-07 at 8.07.17 PM](/assets/images/2025-1-7-hospital-shadowing/Screenshot 2026-01-07 at 8.07.44 PM.png)
 
-As the days went on, this routine repeated, but my role gradually expanded. I began assisting with research-related tasks in the residents’ office, particularly with clinical data organization. I manually kept data for over 100 patients by transferring information from the hospital’s EMR system into structured Excel datasets. This included pre-operative data and follow-ups at 3, 6, and 12 months.
+![Screenshot 2026-01-07 at 9.19.37 PM](/assets/images/2026-1-7-hospital-shadowing/Screenshot 2026-01-07 at 9.19.37 PM.png)
 
-The data I worked with focused primarily on knee cases, and I recorded multiple clinical outcome measures, including WOMAC scores, KSS scores, VAS pain scores, and EQ-5D-5L quality-of-life assessments. Working with EMR data required constant attention—these systems contain nearly all patient information, from outpatient visits and surgical details to inter-departmental communication. Even a small mistake could compromise sensitive medical data, so accuracy and communication with residents were essential. Because Jeju National University Hospital is the largest hospital in the region, the EMR system also reflected real-time collaboration among departments such as orthopedics, internal medicine, and neurosurgery. Learning to navigate this complexity took time, and I constantly asked questions to ensure I understood what I was handling. By the second week, I was trusted to work more independently, which I do not take lightly.
+ As the days went on, this routine repeated, but my role gradually expanded. I began assisting with research-related tasks in the residents’ office, particularly with clinical data organization. I manually kept data for over 100 patients by transferring information from the hospital’s EMR system into structured Excel datasets. This included pre-operative data and follow-ups at 3, 6, and 12 months.
+
+The data I worked with focused primarily on knee cases, and I recorded multiple clinical outcome measures, including WOMAC scores, KSS scores, VAS pain scores, and EQ-5D-5L quality-of-life assessments. Working with EMR data required constant attention—these systems contain nearly all patient information, from outpatient visits and surgical details to inter-departmental communication. Even a small mistake could compromise sensitive medical data, so accuracy and communication with residents were essential. 
+
+
+
+Because Jeju National University Hospital is the largest hospital in the region, the EMR system also reflected real-time collaboration among departments such as orthopedics, internal medicine, and neurosurgery. Learning to navigate this complexity took time, and I constantly asked questions to ensure I understood what I was handling. By the second week, I was trusted to work more independently, which I do not take lightly.
 
 
 
@@ -60,8 +66,11 @@ The data I worked with focused primarily on knee cases, and I recorded multiple 
 
 ![ED714B98-81A5-4C32-8640-736D8F2AF84A_1_105_c](/assets/images/2025-1-7-hospital-shadowing/ED714B98-81A5-4C32-8640-736D8F2AF84A_1_105_c.jpeg)
 
- (translated) Doctor, I have a few questions regarding the data organization process.
+ (translated)
 
+```
+ Doctor, I have a few questions regarding the data organization process.
+ 
 1. When a functional score is entered as two values (e.g., 45 and 50), which value should be selected for analysis?
 
 2. In the Excel dataset, what criteria should be used to distinguish between the right and left knee for each patient?
@@ -75,6 +84,9 @@ The data I worked with focused primarily on knee cases, and I recorded multiple 
 2. Rt = 1, Lt = 2.
 
 3. Please use the patient registration date.
+```
+
+
 
 
 
@@ -82,8 +94,17 @@ I think I understand the first point now. Regarding the KSS pain/knee subtotal, 
 
 ![0EF5A655-B659-40BB-A482-6598D16D2491_1_105_c](/assets/images/2025-1-7-hospital-shadowing/0EF5A655-B659-40BB-A482-6598D16D2491_1_105_c.jpeg)
 
-(translated)  I’ll wrap up here for today and head out.  
- Sure, go ahead.
+(translated)
+
+```
+  I’ll wrap up here for today and head out.  
+
+
+
+ Sure, go ahead
+```
+
+
 
 <sub> There was no official “end time” for me, so I usually arrived around 8–9 a.m. and left when the doctors’ main work wrapped up. Eventually, they decided this was way too much for a student and told me to leave whenever I felt like it.
  This was my first attempt 😂
@@ -100,6 +121,6 @@ In addition to research, I was exposed to a wide range of surgical procedures. T
 
 
 
-Although my winter break has been busy and at times overwhelming, it has confirmed something important to me. Medicine is not just about knowledge or skill—it is about responsibility, patience, and trust. Being allowed into these spaces, even as a high school student, has been a privilege, and I am determined to honor that trust by continuing to learn carefully and seriously.This experience is still ongoing, and I know there is much more ahead. But even now, it has already become one of the most meaningful chapters of my life.  And there is still so much I want to write about—and even more I know will come.
+There is still so much I want to write about—and even more I know will come.
  Right now, there is simply too much to unpack, and I’m not sure where to begin.
  I’d love to explain the surgical procedures and their underlying principles in detail, but my writing hasn’t caught up to my experiences yet—and I have to be back at the hospital tomorrow. So I’ll stop here, for now.
