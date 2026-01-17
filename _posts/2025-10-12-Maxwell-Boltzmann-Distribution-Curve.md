@@ -73,3 +73,5 @@ $$
 <img src="/assets/images/2025-10-18-Maxwell-Boltzmann-Distribution-Curve/image-20251018145839777.png" alt="image-20251018145839777" style="zoom:50%;" />
 
 ⚠️ He molar mass > H molar mass
+
+

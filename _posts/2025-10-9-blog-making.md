@@ -2,7 +2,6 @@
 layout: single
 title: "Blog Making"
 typora-root-url: ../
-category: "coding"
 toc: true
 author_profile: false
 ---

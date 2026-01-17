@@ -4,7 +4,6 @@ title: "Blog Design Update"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: "coding"
 toc: true
 ---
 

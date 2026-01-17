@@ -2,7 +2,6 @@
 layout: single
 title: "Dark Mode"
 typora-root-url: ../
-category: "coding"
 author_profile: false
 toc: true
 ---

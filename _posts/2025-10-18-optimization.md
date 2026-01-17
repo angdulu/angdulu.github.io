@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Optimatization"
+title: "From Calculus to Design: Optimizing the Shape of a Can"
 typora-root-url: ../
 author_profile: false
 mathjax: true

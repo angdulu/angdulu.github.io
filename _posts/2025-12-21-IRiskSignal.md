@@ -4,7 +4,7 @@ title: "Designing an Inhalation Risk Signal System"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: "Health / Medicine"
+category: "Health & Medicine"
 toc: true
 ---
 
