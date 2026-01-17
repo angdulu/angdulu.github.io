@@ -4,8 +4,7 @@ title: "Maxwell Boltzmann Distribution Curve"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: "science"
-
+category: "Chemistry & Science"
 ---
 
 The **Maxwell–Boltzmann distribution** shows how particle **velocities** are distributed in a gas.

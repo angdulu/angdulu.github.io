@@ -4,7 +4,7 @@ title: "The Pivot: From Physical Experiment to Computational Modeling"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: "experiment"
+category: "Research & Design"
 toc: true
 ---
 

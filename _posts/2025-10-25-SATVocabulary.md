@@ -4,7 +4,6 @@ title: “Word Smart — SAT Vocabulary Planner (by Andrew Kim)”
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: "daily"
 toc: true
 ---
 

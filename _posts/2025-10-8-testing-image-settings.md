@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Testing Image Settings"
-categories: "testing"
 typora-root-url: ../
 toc: true
 author_profile: false

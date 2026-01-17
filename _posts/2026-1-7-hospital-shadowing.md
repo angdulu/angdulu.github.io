@@ -4,7 +4,7 @@ title: "A Winter Break Spent Inside Medicine"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: "daily"
+category: "Health / Medicine"
 toc: false
 ---
 

@@ -4,7 +4,7 @@ title: "Deriving the Integrated Rate Laws Formula & Graphs"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: "science"
+category: "Chemistry & Science"
 toc: true
 ---
 
