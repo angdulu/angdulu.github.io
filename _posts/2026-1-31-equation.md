@@ -4,13 +4,25 @@ title: "Equation: Modeling Muscle Memory Recovery"
 typora-root-url: ../
 author_profile: false
 mathjax: true
-category: 
-toc: 
+category: "Research & Design"
+toc: True
 ---
+
+Hi. It's been quite a long time. Before getting into the model, I want to briefly explain the direction this blog is taking.
+
+Over the past few months, I haven’t shared progress as frequently as I originally intended. Part of that was simply being busy, but more importantly, the ideas I’ve been working on, such as muscle memory modeling and quantitative risk analysis for respiratory exposure, turned out to be more conceptually demanding than expected. Rather than posting fragmented thoughts, I wanted to take the time to organize them into something coherent and meaningful. This blog is gradually shifting away from short, casual updates and toward deeper, more focused projects. Because these projects are developed iteratively, individual posts may feel scattered or incomplete when viewed in isolation. Eventually, related posts will be combined and reorganized into unified, paper-like writeups.
+
+
+
+
+
+
+
+
 
 This post documents **how a mathematical model for muscle memory recovery can be constructed**, rather than presenting final experimental results.
 
-At this stage, my goal is not to prove a model, but to show how a reasonable physiological intuition can be translated into a quantitative equation.
+At this stage, my goal is not to prove a model, but to show how a reasonable physiological intuition can be translated into a quantitative equation. 
 
 ## 1. From Observation to Hypothesis
 
@@ -26,13 +38,33 @@ This is not only anecdotal. Many detraining–retraining studies describe recove
 - “diminishing returns”
 - “approach toward pre-detraining levels”
 
-These observations naturally suggest the following hypothesis:
+**These observations naturally suggest the following hypothesis:**
 
 > **The rate of strength recovery is proportional to the remaining deficit from pre-detraining strength.**
->
-> ###### recovery rate∝remaining deficit
 
-In other words, the more strength that has yet to be recovered, the faster recovery occurs.
+
+
+**(recovery rate) ∝ (remaining deficit)**
+
+
+
+Importantly, this interpretation is not purely speculative. Evidence from studies suggests that the apparent rate of strength recovery is related with the magnitude of strength loss. Across studies, individuals or protocols that experienced larger strength deficits tended to exhibit different recovery dynamics than those with smaller losses, implying that recovery is naturally constrained by the remaining deficit rather than by absolute strength alone. This could be resulted in by the factors including the fact that
+
+- **Neural reacquisition** (motor unit recruitment, firing rate, coordination) occurs rapidly during early retraining.
+
+- **Preserved myonuclei** and cellular adaptations reduce the cost of rebuilding contractile tissue.
+
+- As strength increases, remaining gains depend increasingly on **structural hypertrophy**, which is slower and energetically costly 
+
+
+
+**The key idea is that the more strength remains to be recovered, the faster recovery occurs.**
+
+Under this hypothesis, recovery is not driven by absolute strength, but by the *remaining deficit* from the pre-detraining level. This assumption allows us to construct a simple mathematical model for muscle memory recovery.
+
+We begin by translating this idea into an equation. 
+
+
 
 Let
 
@@ -41,24 +73,35 @@ Let
 - $S_D$ be strength after the detraining period
 
 Then the remaining deficit at time $t$ is:
+
+
 $$
 S_T - S(t)
 $$
+
+
 This leads to the proportionality assumption:
+
+
 $$
 \frac{dS}{dt} \propto \big(S_T - S(t)\big)
 $$
+
 This hypothesis is informed by common training experience and supported qualitatively by existing literature.
  A detailed review of specific studies will be included separately to keep the focus here on the modeling logic.
 
 ## 2. Translating the Hypothesis into a Differential Equation
 
 Introducing a proportionality constant $k_r > 0$, the hypothesis becomes:
+
+
 $$
 \boxed{
 \frac{dS}{dt} = k_r \big(S_T - S(t)\big)
 }
 $$
+
+
 This equation captures several intuitive features of retraining:
 
 - When the deficit is large, recovery is fast
@@ -72,7 +115,7 @@ Importantly, **this equation is not chosen to force an exponential solution**.
 
 This is a **First-Order Linear Differential Equation**. Specifically, it describes "Newton’s Law of Cooling" or "Mixing Problems," where a value $S$ approaches a target value $S_T$ over time.
 
-(I had to self- taught basic linear differential equations because of this)
+(I did a self- taught basic linear differential equations because of this)
 
 
 
@@ -80,43 +123,66 @@ Let's find the function $S(t)$
 
 
 
-**Step 1: Separate the Variables**
+### **Step 1: Separate the Variables**
 
 Our goal is to get all the $S$ terms on one side and all the $t$ terms on the other.
 
 Given:
 
+
+
 $$\frac{dS}{dt} = k_r(S_T - S)$$
 
+
+
 Divide both sides by $(S_T - S)$ and multiply by $dt$:
+
+
 
 $$\frac{1}{S_T - S} dS = k_r \, dt$$
 
 
 
-**Step 2: Integrate Both Sides**
+### **Step 2: Integrate Both Sides**
 
 Now, we apply the integral to both sides:
 
+
+
 $$\int \frac{1}{S_T - S} dS = \int k_r \, dt$$
 
+
+
 - **Right Side:** This is easy. The integral of a constant $k_r$ with respect to $t$ is $k_r t + C$.
+
 - **Left Side:** This requires a quick **u-substitution**.
   - Let $u = S_T - S$.
-  - Then $du = -dS$, which means $dS = -du$.
-  - The integral becomes $\int -\frac{1}{u} du = -\ln|u|$.
 
-So, we have:
+  - Then $du = -dS$, which means $dS = -du$.
+
+  - The integral becomes 
+
+    
+    $$
+    -\int \frac{1}{u}\,du = -\ln|u| + C
+    $$
+    
+
+    So, we have:
+
+
 
 $$-\ln|S_T - S| = k_r t + C$$
 
 
 
-**Step 3: Solve for $S$**
+### **Step 3: Solve for $S$**
 
 Now we just use algebra to isolate $S(t)$.
 
 1. **Move the negative sign:**
+
+   
 
    $$\ln|S_T - S| = -k_r t + C$$
 
@@ -124,9 +190,13 @@ Now we just use algebra to isolate $S(t)$.
 
 2. **Exponentiate (e both sides):**
 
+   
+
    $$|S_T - S| = e^{-k_r t + C}$$
 
    Using exponent rules ($e^{a+b} = e^a \cdot e^b$), we get:
+
+   
 
    $$|S_T - S| = e^C \cdot e^{-k_r t}$$
 
@@ -134,9 +204,13 @@ Now we just use algebra to isolate $S(t)$.
 
    Since $e^C$ is just another constant, let's call it $A$.
 
+   
+
    $$S_T - S = A e^{-k_r t}$$
 
 4. **Final Isolation:**
+
+   
 
    $$S(t) = S_T - A e^{-k_r t}$$
 
@@ -156,6 +230,8 @@ Now we just use algebra to isolate $S(t)$.
 
 We start with the general solution we just found:
 
+
+
 $$S(t) = S_T - Ae^{-k_r t}$$
 
 We are given the initial condition: **At $t = 0$, the value is $S_d$.** In math terms: $S(0) = S_d$.
@@ -166,15 +242,21 @@ Plug $t = 0$ and $S = S_d$ into the equation:
 
 1. **Substitute the values:**
 
+   
+
    $$S_d = S_T - Ae^{-k_r(0)}$$
 
 2. **Simplify the exponent:**
 
    Since any number (except zero) raised to the power of $0$ is $1$:
 
+   
+
    $$e^0 = 1$$
 
    So, the equation becomes:
+
+   
 
    $$S_d = S_T - A(1)$$
 
@@ -182,11 +264,15 @@ Plug $t = 0$ and $S = S_d$ into the equation:
 
    Add $A$ to both sides and subtract $S_d$ from both sides:
 
+   
+   
    $$A = S_T - S_d$$
 
 ## The Final Particular Solution
 
 Now, substitute this expression for $A$ back into our general equation:
+
+
 
 $$S(t) = S_T - (S_T - S_d)e^{-k_r t}$$
 
@@ -208,11 +294,15 @@ $$
 S(0) = S_D
 $$
 (where $S_D$ is strength after detraining) yields:
+
+
 $$
 \boxed{
 S(t) = S_T - (S_T - S_D)e^{-k_r t}
 }
 $$
+
+
 This result is significant for several reasons:
 
 - Exponential recovery is **not an arbitrary assumption**
@@ -221,9 +311,7 @@ This result is significant for several reasons:
 
 Mathematically, muscle memory recovery is treated as a **first-order system approaching equilibrium**, a structure commonly seen in biological and physical processes.
 
-------
-
-## 4. Interpreting the Recovery Constant $k_r$
+## 5. Interpreting the Recovery Constant $k_r$
 
 At this point, the only unknown in the model is the recovery constant $k_r$.
 
@@ -243,9 +331,7 @@ Such observations directly constrain the possible values of $k_r$ and allow para
 
 My background in AP Calculus BC (differential equations) and rate-law modeling in chemistry has been especially useful at this stage, as the mathematical structure closely resembles exponential decay and recovery systems.
 
-------
-
-## 5. Why This Step Matters
+## 6. Why This Step Matters
 
 This post does not claim that the model is complete or universally accurate.
  Instead, it documents a key transition:
@@ -255,9 +341,7 @@ This post does not claim that the model is complete or universally accurate.
 This modeling process is foundational.
  Experimental validation and parameter estimation come later.
 
-------
-
-## What Comes Next
+## What Might Come Next
 
 - Estimating $k_r$ from published detraining–retraining studies
 - Comparing exponential and logistic recovery models
