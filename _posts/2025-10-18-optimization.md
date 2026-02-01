@@ -10,21 +10,20 @@ toc: true
 
 # Contextual Applications of Differentiation
 
-When you pick up a 500 mL drink can, have you ever wondered—
- is its shape mathematically optimal for holding that volume with minimum material?
+When you pick up a 500 mL drink can, have you ever wondered if its shape is mathematically optimal for holding that volume with minimum material?
 
 <img src="/assets/images/2025-10-18-optimization/Screenshot 2025-10-25 at 8.33.11 PM.png" style="zoom:33%;" />
 
 Let’s find out.
  (assume the can is a perfect cylinder, ignoring the weird curved top and bottom shape.)
 
-## 🤓 Step 0. Background research
+##  Step 0. Background research
 
 ![Screenshot 2025-10-25 at 7.06.33 PM](/assets/images/2025-10-18-optimization/Screenshot 2025-10-25 at 7.06.33 PM.png)
 
 <sub> source: trust me bro 😎
 
-## 📦 Step 1. Known Information
+##  Step 1. Known Information
 
 - **Volume:** $V = 500\ \text{mL} = 500\ \text{cm}^3$
 
@@ -34,7 +33,7 @@ Let’s find out.
    
    $r = 3.3\ \text{cm}$
 
-## 📐 Step 2. Volume Formula
+##  Step 2. Volume Formula
 
 For a cylinder,
 
@@ -60,7 +59,7 @@ $$
 ​				
 ​					
 
-## ✏️ Step 3. Surface Area (Material Used)
+##  Step 3. Surface Area (Material Used)
 
 The surface area of a closed cylinder is:
 $$
@@ -77,7 +76,7 @@ $$
 ​				
 ​					
 
-## 🔍 Step 4. Optimization
+##  Step 4. Optimization
 
 Differentiate $A$ with respect to $r$:
 
@@ -114,7 +113,7 @@ $$
 
 
 
-✅ **Result:** For a cylinder with minimum surface area,
+ **Result:** For a cylinder with minimum surface area,
  the height should be **8.604 cm**, and the radius should be **4.301 cm** , which deviates from the actual dimensions (h=16.8cm, r=3.3cm). The actual can is much thinner and taller. 
 
 
@@ -127,7 +126,7 @@ $$
 
 
 
-## 🧠 Step 5. Conclusion
+##  Step 5. Conclusion
 
 The real 500 mL can is far from the optimal, "ideal" dimensions.
 

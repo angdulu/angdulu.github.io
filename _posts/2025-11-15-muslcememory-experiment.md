@@ -8,9 +8,11 @@ category: "Research & Design"
 toc: true
 ---
 
-## 🧬 **Introduction — Why I'm Doing This Experiment**
+##  **Introduction: Why I'm Doing This Experiment**
 
-Three months ago, I stopped going to the gym. I was heavily stressed out due to academic pressure and a lack of time. I know it might sound like an excuse, but it’s the truth. Even though I wasn’t completely inactive — I still did pull-ups and push-ups at home — my real, consistent training stopped in August.
+Three months ago, I stopped going to the gym. I was heavily stressed due to academic pressure and a lack of time. I know it might sound like an excuse, but it’s the truth.
+
+Even though I wasn’t completely inactive and still did pull-ups and push-ups at home, my real, consistent training stopped in August.
 
 Because I wasn’t working out properly *and* wasn’t maintaining enough protein intake or overall nutrition, here’s what happened:
 
@@ -28,21 +30,21 @@ So I decided to turn this entire process into a **personal experiment** and docu
 
 
 
-## 🤓  Background research
+##   Background research
 
 Before we start, what exactly is "muscle memory"? 
 
 
 
-Muscle memory is the ability to perform movements automatically without consciously thinking about each step. According to the Cleveland Clinic, this form of memory is **not actually stored in the muscles**, but in the brain — specifically in the **motor cortex, cerebellum, and striatum**, which handle procedural (implicit) memory.
+Muscle memory is the ability to perform movements automatically without consciously thinking about each step. According to the Cleveland Clinic, this form of memory is **not actually stored in the muscles**, but in the brain, specifically in the **motor cortex, cerebellum, and striatum**, which handle procedural (implicit) memory.
 
-When you repeatedly practice a movement, your muscles adapt by increasing **myonuclei** inside muscle fibers. These extra nuclei remain even after you stop training, allowing muscles to regain size and strength more quickly when you resume — this is why retraining is much faster than starting from zero.
+When you repeatedly practice a movement, your muscles adapt by increasing **myonuclei** inside muscle fibers. These extra nuclei remain even after you stop training, allowing muscles to regain size and strength more quickly when you resume. This is why retraining is much faster than starting from zero.
 
 Muscle memory develops in **three stages**:
 
-1. **Cognitive Phase** — you think through each step.
-2. **Associative Phase** — performance improves with practice.
-3. **Autonomous Phase** — the movement becomes automatic.
+1. **Cognitive Phase**:  you think through each step.
+2. **Associative Phase**:  performance improves with practice.
+3. **Autonomous Phase**:  the movement becomes automatic.
 
 Most importantly, the studies suggest that **previously trained muscles regain size and strength significantly faster due to retained myonuclei.**
 
@@ -61,7 +63,7 @@ Most importantly, the studies suggest that **previously trained muscles regain s
 
 <sub> source: trust me bro 😎
 
-**🤯 “Half the time” rule?!?!**
+**“Half the time” rule?!?! **
 
 Since I can’t fully trust the source, let’s dig into this further!
 
@@ -74,15 +76,15 @@ GPT's response:
 
 I couldn't find every sources that my GPT told me, but I found a reliable source that showed the studies by 
 
-**Staron (1991):** The researchers had participants train for 20 weeks, detrain for 30-32 weeks, and then retrain. The participants **regained their lost strength in only 6 weeks**—a fraction of the original 20-week training time. 
+**Staron (1991):** The researchers had participants train for 20 weeks, detrain for 30–32 weeks, and then retrain. The participants **regained their lost strength in only 6 weeks**, a fraction of the original 20-week training time.
 
 
 
-The Staron study showed results that were significantly *better* than that rule. Anyway, whats important is that, If the muscle memory is true, it would take less than 2 months to regain my power 🏋️. 
+The Staron study showed results that were significantly *better* than that rule. Anyway, whats important is that, If the muscle memory is true, it would take less than 2 months to regain my power. 
 
 
 
-## 🎯 **Goal of the Experiment**
+##  **Goal of the Experiment**
 
 > **To measure how quickly I regain strength, muscle, and performance after a 3-month detraining period.**
 
@@ -100,7 +102,7 @@ This experiment will test the real-world effect of **muscle memory** caused by p
 
 
 
-## 🏋️‍♂️ **My Peak Condition (Before Detraining)**
+##  **My Peak Condition (Before Detraining)**
 
 | Metric               | Peak Value    |
 | -------------------- | ------------- |
@@ -111,7 +113,7 @@ This experiment will test the real-world effect of **muscle memory** caused by p
 
 
 
-## 📉 **My Condition After 3-Month Detraining (Now)**
+##  **My Condition After 3-Month Detraining (Now)**
 
 | Metric               | Current Value (Nov 16, 2025)                  |
 | -------------------- | --------------------------------------------- |
@@ -122,9 +124,9 @@ This experiment will test the real-world effect of **muscle memory** caused by p
 
 
 
-## 🧪 **Experiment Design**
+##  **Experiment Design**
 
-### **Phase 1 — Initial Measurement (Day 0)**
+### **Phase 1: Initial Measurement (Day 0)**
 
 I will record:
 
@@ -136,7 +138,7 @@ I will record:
 
 ------
 
-### **Phase 2 — Retraining**
+### **Phase 2: Retraining**
 
 **Training frequency:** 4-5 days/week
 Sticking with the previous routine:
@@ -171,7 +173,7 @@ skipping legday😏
 
 ------
 
-### **Phase 3 — Weekly Testing**
+### **Phase 3: Weekly Testing**
 
 Every 7 days:
 
@@ -181,7 +183,7 @@ Every 7 days:
 
 ------
 
-### **Phase 4 — Analysis**
+### **Phase 4: Analysis**
 
 with this I would be able to compare:
 
@@ -192,7 +194,7 @@ with this I would be able to compare:
 
 
 
-# 📈 Expected Results
+#  Expected Results
 
 | Week       | Predicted Bench 1RM | Predicted Bodyweight | Predicted Muscle Mass* | Notes                                                        |
 | ---------- | ------------------- | -------------------- | ---------------------- | ------------------------------------------------------------ |
@@ -216,11 +218,9 @@ This hypothesis depends on three key factors that I must control for in the expe
 
 2. **High Protein Intake:** I must consume adequate protein (e.g., 1.6-2.2 grams per kg of bodyweight) to provide the building blocks for muscle repair and growth.
 
-3. **Consistency & Progressive Overload:** I must stick to the routine and focus on **progressive overload**—adding a little more weight or perhaps an extra rep whenever possible.
+3. **Consistency & Progressive Overload:** I must stick to the routine and focus on **progressive overload**, adding a little more weight or perhaps an extra rep whenever possible.
 
-   
-
-## 📊 **What I Will Publish Later**
+##  **What I Will Publish Later**
 
  I will upload:
 

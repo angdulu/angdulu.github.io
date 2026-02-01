@@ -8,29 +8,27 @@ author_profile: false
 
 ## How I Made This GitHub Blog (With Zero Coding Experience)
 
-This is my **first official post**, and it’s about how this website was born.
-
 Before this, I had never written a single line of code in my life.
- HTML? YAML? Markdown? — I had no clue what any of those were.
+ HTML? YAML? Markdown? I had no clue what any of those were.
  But I’ve always liked trying new things, even when I have no idea what I’m doing.
- So when I found a **YouTube video** explaining how to make a blog using **GitHub Pages + Jekyll**, I thought:
+ So when I found a **YouTube video** explaining how to make a blog using **GitHub Pages and Jekyll**, I thought:
 
 > “Why not?”
 
-## 💡Day 1
+## Day 1
 
-The video I followed was in Korean, explaining how to make a Jekyll-based blog on GitHub Pages.
- The tutorial made it sound *so* easy — “less than 10 minutes!” — but for me, it took hours… days actually. 😅
+The video I followed was in Korean and explained how to make a Jekyll-based blog on GitHub Pages.
+ The tutorial made it sound *so* easy, “less than 10 minutes!” But for me, it took hours… days actually 😅
 
 Still, I learned a lot:
 
 - How to create a GitHub repository
-
-- What `_config.yml` does — basically, your site’s brain
-
+- What `_config.yml` does, basically your site’s brain
 - How to edit posts by making `.md` (Markdown) files
 
-  
+
+
+
 
 > This consists the website.
 
@@ -56,9 +54,8 @@ name :   "Andrew Kim"
 
 ![Screenshot 2025-10-09 at 5.14.04 PM](/assets/images/2025-10-9-blog-making/Screenshot 2025-10-09 at 5.14.04 PM.png)
 
-It adds your name. While this is just a sample, you can add anything you want by simply asking ChatGPT! I even tried adding an automatic dark mode feature — it didn’t work as I expected, but still, here's the thing: you can do whatever you want.
-
-
+It adds your name. While this is just a sample, you can add anything you want by simply asking ChatGPT.
+ I even tried adding an automatic dark mode feature. It didn’t work as I expected, but still, here’s the thing: you can do whatever you want.
 
 
 
@@ -69,37 +66,37 @@ Even though the template (I used Minimal Mistakes) was already made, understandi
 
 
 
-## 🧩 Day 2 — Leveling Up
+##  Day 2 
 
 As i'm posting this, I’ve already learned so much more:
 
-- 🖥 **Using a local server** to instantly preview small edits before pushing to GitHub
+-  **Using a local server** to instantly preview small edits before pushing to GitHub
 
-- 🖼 **Adding images easily** with **Typora**, a Markdown editor that lets me drag and drop images
+- **Adding images easily** with **Typora**, a Markdown editor that lets me drag and drop images
 
-- 🎨 **Changing themes and settings**, adding new features, and customizing layouts
+-  **Changing themes and settings**, adding new features, and customizing layouts
 
   > It started as a plain white page. Now it’s finally starting to look like a *real* blog.
 
-- 🔍 **Using Inspect (Dev Tools)** to tweak colors, layouts, and other styles directly from my browser
+-  **Using Inspect (Dev Tools)** to tweak colors, layouts, and other styles directly from my browser
 
 Every little experiment makes this site feel more like mine.
- There’s still a lot I don’t understand — but that’s what makes it fun.
+There’s still a lot I don’t understand, but that’s what makes it fun.
 
 
 
-## ✍️ What’s Next
+##  What’s Next
 
 There’s so much I want to share, but writing everything in Markdown takes forever 😅
 
  Each post means creating and typing inside a `.md` file, so it’s not as quick as a regular blog.
- Still, I’ll keep posting the things I find interesting — step by step, as I learn.
+Still, I’ll keep posting the things I find interesting, step by step as I learn.
 
 
 
 **Adding automatic & manual dark mode**
 
-I am currently working on adding automatic and manual dark mode feature. This is because I usually prefer dark mode, but I failed to make one that satisfies my expectations. As shown below, I usually rely 1000% on ChatGPT. You would know whether I have succeeded or not by the time you see my blog.
+I am currently working on adding automatic and manual dark mode feature. This is because I usually prefer dark mode, but I failed to make one that satisfies my expectations. As shown below, I usually rely a lot on ChatGPT. You would know whether I have succeeded or not by the time you see my blog.
 
 <sub> ⬇️ My GPT's response:
 
@@ -256,27 +253,29 @@ git push origin main
 ```
 
 This is just the beginning.
- Day 1, 2 of many. 🚀
+ Day 1, 2 of many. 
 
-## ⚙️ Tools That Saved Me
+##  Tools That Saved Me
 
 Honestly, I owe this blog to:
 
-- 🧠 **Google** — for every “why isn’t my site showing up” question
+- **Google**, for every “why isn’t my site showing up” question
 
-- 🤖 **ChatGPT** — for fixing broken syntax and checking grammar (like this post 😏)
+- **ChatGPT**, for fixing broken syntax and checking grammar (like this post 😏)
 
-- 🎥 **YouTube** — for the Korean tutorial that started it all
+- **YouTube**, for the Korean tutorial that started it all
 
   
-  > 🎥 Video I learned from:  
+
+
+  >  Video I learned from:  
   > [How to Make a GitHub Blog in 10 Minutes (Korean Tutorial)](https://youtu.be/ACzFIAOsfpM?si=7_akrniTkLNLwHLD) 
   > Credit to the creator for making it easy to follow
 
-## 💬 What I Learned
+##  What I Learned
 
 - You don’t have to “know coding” to build something cool.
 
-- Errors are part of the process — one typo can break everything, but fixing it teaches a lot.
+- Errors are part of the process. One typo can break everything, but fixing it teaches a lot.
 
-- Building something yourself feels *way* better than just using a platform that’s already done for you.
+- Building something yourself feels way better than just using a platform that’s already done for you.

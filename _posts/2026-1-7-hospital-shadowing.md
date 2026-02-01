@@ -14,7 +14,7 @@ This winter break has been anything but ordinary. While it is still ongoing, it 
 
 <img src="/assets/images/2025-1-7-hospital-shadowing/IMG_5879.jpeg" alt="IMG_5879" style="zoom:50%;" />
 
-At the beginning of the break, I traveled from Jeju to Seoul to attend a lecture given by professor Kwon who had led COVID-19 antiviral drug development projects and previously taught at Johns Hopkins School of Medicine. The lecture went far beyond virology alone—it covered the real process of medical research, from early hypotheses to clinical challenges, ethical limitations, and the gap between laboratory success and real-world treatment. 
+At the beginning of the break, I traveled from Jeju to Seoul to attend a lecture given by Professor Kwon, who had led COVID-19 antiviral drug development projects and previously taught at Johns Hopkins School of Medicine. The lecture went far beyond virology alone. It covered the real process of medical research, from early hypotheses to clinical challenges, ethical limitations, and the gap between laboratory success and real-world treatment.
 
 During the same event, I was given the opportunity to deliver a short speech of my own. My presentation was titled **“The Long-Term Inhalation Risk of Household Chemicals.”** Rather than focusing on a single compound, I discussed a broader concern: how everyday chemical exposure is often evaluated for short-term toxicity but insufficiently studied for long-term inhalation effects as well as the chemical reactions a compound can react with creating a significant harm. This topic is personal to me, and presenting it in front of medical professionals pushed me to think more carefully about evidence, uncertainty, and responsibility in public health discussions.
 
@@ -30,7 +30,7 @@ After the lecture, I briefly stayed in Busan with my family before returning to 
 
 <img src="/assets/images/2025-1-7-hospital-shadowing/Screenshot 2026-01-07 at 8.48.06 PM.png" alt="Screenshot 2026-01-07 at 8.48.06 PM" style="zoom:33%;" />
 
-On the first day, I learned how the hospital system operates as a whole—how outpatient clinics, surgical schedules, and departments coordinate in real time. I observed outpatient consultations and began to understand how clinical decision-making works beyond textbooks.
+On the first day, I learned how the hospital system operates as a whole. I saw how outpatient clinics, surgical schedules, and departments coordinate in real time. I also observed outpatient consultations and began to understand how clinical decision-making works beyond textbooks.
 
 ![CC056891-3D14-4786-AD77-DD4392AC1804_1_105_c](/assets/images/2025-1-7-hospital-shadowing/CC056891-3D14-4786-AD77-DD4392AC1804_1_105_c.jpeg)
 
@@ -52,7 +52,9 @@ The second day was a surgical day. After completing all required procedures rela
 
  As the days went on, this routine repeated, but my role gradually expanded. I began assisting with research-related tasks in the residents’ office, particularly with clinical data organization. I manually kept data for over 100 patients by transferring information from the hospital’s EMR system into structured Excel datasets. This included pre-operative data and follow-ups at 3, 6, and 12 months.
 
-The data I worked with focused primarily on knee cases, and I recorded multiple clinical outcome measures, including WOMAC scores, KSS scores, VAS pain scores, and EQ-5D-5L quality-of-life assessments. Working with EMR data required constant attention—these systems contain nearly all patient information, from outpatient visits and surgical details to inter-departmental communication. Even a small mistake could compromise sensitive medical data, so accuracy and communication with residents were essential. 
+The data I worked with focused primarily on knee cases, and I recorded multiple clinical outcome measures, including WOMAC scores, KSS scores, VAS pain scores, and EQ-5D-5L quality-of-life assessments.
+
+Working with EMR data required constant attention. These systems contain nearly all patient information, from outpatient visits and surgical details to inter-departmental communication. Even a small mistake could compromise sensitive medical data, so accuracy and clear communication with residents were essential.
 
 
 
@@ -113,7 +115,7 @@ I think I understand the first point now. Regarding the KSS pain/knee subtotal, 
 <sub> There was no official “end time” for me, so I usually arrived around 8–9 a.m. and left when the doctors’ main work wrapped up. Eventually, they decided this was way too much for a student and told me to leave whenever I felt like it.
  This was my first attempt 😂
 
-In addition to research, I was exposed to a wide range of surgical procedures. These included total knee arthroplasty, advanced rotator cuff tear surgeries that went beyond simple repair—such as tendon transfer using the Achilles tendon and biologically induced patch augmentation to prevent re-tear—and osteotomy procedures for arthritis patients that correct limb alignment without using artificial joints.
+In addition to research, I was exposed to a wide range of surgical procedures. These included total knee arthroplasty, advanced rotator cuff tear surgeries that went beyond simple repair, such as tendon transfer using the Achilles tendon and biologically induced patch augmentation to prevent re-tear, and osteotomy procedures for arthritis patients that correct limb alignment without using artificial joints.
 
 
 
@@ -125,6 +127,9 @@ In addition to research, I was exposed to a wide range of surgical procedures. T
 
 
 
-There is still so much I want to write about—and even more I know will come.
+There is still so much I want to write about, and even more I know will come.
  Right now, there is simply too much to unpack, and I’m not sure where to begin.
- I’d love to explain the surgical procedures and their underlying principles in detail, but my writing hasn’t caught up to my experiences yet—and I have to be back at the hospital tomorrow. So I’ll stop here, for now.
+
+I’d love to explain the surgical procedures and their underlying principles in detail, but my writing hasn’t caught up to my experiences yet. I also have to be back at the hospital tomorrow.
+
+So I’ll stop here, for now.

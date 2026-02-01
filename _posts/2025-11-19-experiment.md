@@ -41,7 +41,7 @@ The experiment should not be abandoned. It's only **postponed** until a period w
 
 Also, I planned to track Muscle Mass as a secondary metric only for additional reference. However, the InBody machine at my gym is currently out of service, and as a dorm student, my ability to travel to other clinics for DEXA or high-end scans is limited. Rather than publishing 'noisy' or inaccurate data from a cheap scale, I have decided to focus strictly on my original  goal of **Strength Performance (1RM)**, which provides a much more objective measure of the muscle memory effect.
 
-### 
+
 
 
 … I can still do research NOW (still meaningful)

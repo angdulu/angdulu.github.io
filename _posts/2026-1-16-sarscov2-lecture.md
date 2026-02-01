@@ -24,11 +24,11 @@ A virion itself is biologically inactive. It becomes dangerous only after enteri
 
 - Vaccines rely on **neutralizing antibodies** to block viral entry.
 - However:
-  - variant emergence is faster than vaccine development cycles
-  - environmental sampling and sequencing show continuous viral change
-- This suggests vaccines alone may not be a permanent solution for rapidly evolving viruses.
+  - Variant emergence is faster than vaccine development cycles.
+  - Environmental sampling and sequencing show continuous viral change.
+- This suggests that vaccines alone may not be a permanent solution for rapidly evolving viruses.
 
-This does not make vaccines useless—but it highlights their **time-limited effectiveness**.
+This does not make vaccines useless. It highlights their **time-limited effectiveness**.
 
 ## 3. Antiviral Drugs and the Problem of Resistance
 

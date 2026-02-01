@@ -11,11 +11,11 @@ toc: true
 # From an Idea to a Working Prototype: Designing an Inhalation Risk Signal System
 
 I have long been interested in chemistry, especially where it intersects with real-world problems.
-But this project did not begin as a technical experiment—it began with personal experience.
+ But this project did not begin as a technical experiment. It began with personal experience.
 
 Years ago, I was affected by the Korean humidifier disinfectant disaster. After exposure, I suffered from mulitple respiratory illnesses including bronchitis and repeated pneumonia, revealing long-term health risks that were not recognized at the time. Humidifier disinfectants are chemicals added to humidifier water and dispersed directly into the air for inhalation. In South Korea, these products were sold with government safety certification, leading consumers to trust they were harmless. In reality, prolonged inhalation caused severe respiratory diseases such as pulmonary fibrosis, asthma, and lung cancer.
 
-The disaster resulted in at least 1,740 deaths and over 5,900 injuries nationwide, ultimately leading to a total sales ban, manufacturer accountability, and widespread public outrage. That experience fundamentally changed how I think about everyday chemicals—and what the word *“safe”* truly means.
+The disaster resulted in at least 1,740 deaths and over 5,900 injuries nationwide, ultimately leading to a total sales ban, manufacturer accountability, and widespread public outrage. That experience fundamentally changed how I think about everyday chemicals and what the word *“safe”* truly means.
 
 This project is my attempt to answer a simple but uncomfortable question:
 What if many everyday products are not fully understood for how we actually use them? What if the products turned out to be a carcinogen, a Cancer-causing agent? 
