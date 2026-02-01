@@ -10,7 +10,7 @@ toc:
 
 This post documents **how a mathematical model for muscle memory recovery can be constructed**, rather than presenting final experimental results.
 
-At this stage, my goal is not to *prove* a model, but to show **how a reasonable physiological intuition can be translated into a quantitative equation**.
+At this stage, my goal is not to prove a model, but to show how a reasonable physiological intuition can be translated into a quantitative equation.
 
 ## 1. From Observation to Hypothesis
 
