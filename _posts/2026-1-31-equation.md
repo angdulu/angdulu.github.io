@@ -115,8 +115,6 @@ Importantly, **this equation is not chosen to force an exponential solution**.
 
 This is a **First-Order Linear Differential Equation**. Specifically, it describes "Newton’s Law of Cooling" or "Mixing Problems," where a value $S$ approaches a target value $S_T$ over time.
 
-(I did a self- taught basic linear differential equations because of this)
-
 
 
 Let's find the function $S(t)$
@@ -276,10 +274,20 @@ Now, substitute this expression for $A$ back into our general equation:
 
 $$S(t) = S_T - (S_T - S_d)e^{-k_r t}$$
 
-### Why this makes sense:
 
-- **At $t = 0$:** The $e^0$ term becomes $1$, leaving you with $S_T - S_T + S_d$. Everything cancels out except $S_d$. It works!
-- **As $t \to \infty$:** The term $e^{-k_r t}$ approaches $0$. This makes the entire right-hand part of the equation vanish, leaving you with $S(t) = S_T$. This confirms that $S_T$ is the "target" or equilibrium.
+
+## Limits and Reason Why this Does Not Matter
+
+It is important to note that this model is intended to describe **recovery toward a previous strength level**, not unlimited long-term adaptation.
+
+Mathematically, the solution approaches $S_T$ asymptotically as $t \to \infty$. In reality, however, continued training beyond recovery can lead to overcompensation, where strength exceeds the pre-detraining level.
+
+This does not invalidate the model. Rather, it defines its domain of applicability. The exponential recovery form is expected to hold primarily during the retraining phase up to the former strength level. Modeling post-recovery growth would require an extended framework with a shifting or adaptive target strength.
+
+**Mathematically** 
+
+- **At $t = 0$:** The $e^0$ term becomes $1$, leaving you with  $S_T - S_T + S_d =   S_d$ . Everything cancels out except $S_d$. It works!
+- **As $t \to \infty$:** The term $e^{-k_r t}$ approaches $0$. This makes the entire right-hand part of the equation vanish, leaving you with $S(t) = S_T$. 
 
 ## 4. Why the Model Is Exponential
 
