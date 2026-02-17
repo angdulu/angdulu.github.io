@@ -8,8 +8,6 @@ category:"Research & Design"
 toc: 
 ---
 
-## Introducing a Logistic Strength Model
-
 Up to this point, recovery has been framed using exponential dynamics.
  However, strength restoration may follow constrained growth rather than pure exponential acceleration.
 
