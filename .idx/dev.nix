@@ -6,11 +6,6 @@
 
   # Use https://search.nixos.org/packages to find packages
   packages = [
-    pkgs.ruby
-    pkgs.bundler
-    pkgs.gcc
-    pkgs.gnumake
-    pkgs.openssl
     # pkgs.go
     # pkgs.python311
     # pkgs.python311Packages.pip
@@ -53,7 +48,7 @@
       # Runs when the workspace is (re)started
       onStart = {
         # Example: start a background task to watch and re-build backend code
-        jekyll-serve = "bundle exec jekyll serve --host=0.0.0.0";
+        # watch-backend = "npm run watch-backend";
       };
     };
   };
